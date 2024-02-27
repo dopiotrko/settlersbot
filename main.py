@@ -1033,7 +1033,7 @@ class Adventure:
         self.void_method()
         my_pygui.moveTo(100, 100)
         loc = my_pygui.locateOnScreen('resource/c_load.png',
-                                      region=(1100, 900, 300, 100),
+                                      region=(1100, 800, 300, 200),
                                       confidence=0.90)
         if loc:
             log.info('load army found - loading')
