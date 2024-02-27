@@ -1,0 +1,46 @@
+{
+ "zoneId": 567815,
+ "zoneUser": "DuzyPiotr",
+ "data": [
+  {
+   "buffName": "BattleBuffHurt_Starfall_MoteBuff4",
+   "buiGrid": 7215,
+   "buiName": "StarfallStarDustMote"
+  },
+  {
+   "buffName": "BattleBuffHurt_Starfall_MoteBuff4",
+   "buiGrid": 9085,
+   "buiName": "StarfallStarDustMote"
+  },
+  {
+   "buffName": "BattleBuffHurt_Starfall_MoteBuff4",
+   "buiGrid": 905,
+   "buiName": "StarfallStarDustMote"
+  },
+  {
+   "buffName": "BattleBuffHurt_Starfall_MoteBuff4",
+   "buiGrid": 4838,
+   "buiName": "StarfallStarDustMote"
+  },
+  {
+   "buffName": "BattleBuffHurt_Starfall_MoteBuff4",
+   "buiGrid": 477,
+   "buiName": "StarfallStarDustMote"
+  },
+  {
+   "buffName": "BattleBuffHurt_Starfall_MoteBuff4",
+   "buiGrid": 7606,
+   "buiName": "StarfallStarDustMote"
+  },
+  {
+   "buffName": "BattleBuffHurt_Starfall_MoteBuff4",
+   "buiGrid": 7272,
+   "buiName": "StarfallStarDustMote"
+  },
+  {
+   "buffName": "BattleBuffHurt_Starfall_MoteBuff4",
+   "buiGrid": 3168,
+   "buiName": "StarfallStarDustMote"
+  }
+ ]
+}
