@@ -862,6 +862,8 @@ class Adventure:
             my_pygui.write('{}.json'.format(template))
             my_pygui.hotkey('ENTER')
             time.sleep(5)
+        else:
+            raise Exception("Read template not found")
         loc = my_pygui.locateOnScreen('resource/send_by_client.png',
                                       confidence=0.85)
         if loc:
@@ -1053,7 +1055,7 @@ class Adventure:
             my_pygui.click((loc - Point(0, 40)).get())
             return True
         else:
-            return False
+            raise Exception('send army button not found')
 
     def c_move_army(self):
         log.info('c_move_army')
@@ -1067,7 +1069,7 @@ class Adventure:
             my_pygui.click(loc.get())
             return True
         else:
-            return False
+            raise Exception('move army button not found')
 
     def c_attack_army(self):
         log.info('c_attack_army')
@@ -1081,7 +1083,7 @@ class Adventure:
             my_pygui.click(loc.get())
             return True
         else:
-            return False
+            raise Exception('attack army button not found')
 
     def c_action(self, action, mode=Mode.play):
         assert action['type'] in ('load', 'move', 'attack', 'refresh')
