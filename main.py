@@ -814,8 +814,12 @@ class Adventure:
                 log.info('not all generals from this action active - trying again')
                 my.wait(1, 'Trying again')
 
+    @staticmethod
+    def void_method():
+        return True
+
     @my.send_explorer_while_error
-    def send_explorer_by_client(self, delay=0, template='explor'):
+    def send_explorer_by_client(self, delay=0, template='explorAdvVL'):
         log.info('send_explorer_by_client')
         my.wait(delay, 'Sending explorers')
         if not self.check_if_in_island():
@@ -1022,9 +1026,10 @@ class Adventure:
         my_pygui.press('0')
         my_pygui.hotkey('ctrl', 'F4')
 
-    @staticmethod
-    def c_load_army():
+    def c_load_army(self):
         log.info('c_load_army')
+        self.void_method()
+        my_pygui.moveTo(100, 100)
         loc = my_pygui.locateOnScreen('resource/c_load.png',
                                       region=(1100, 900, 300, 100),
                                       confidence=0.90)
@@ -1033,11 +1038,12 @@ class Adventure:
             my_pygui.click(loc.get())
             return True
         else:
-            return False
+            raise Exception('load army button not found')
 
-    @staticmethod
-    def c_send_army():
+    def c_send_army(self):
         log.info('c_send_army')
+        self.void_method()
+        my_pygui.moveTo(100, 100)
         loc = my_pygui.locateOnScreen('resource/c_send.png',
                                       region=(1100, 800, 500, 200),
                                       confidence=0.90)
@@ -1049,9 +1055,10 @@ class Adventure:
         else:
             return False
 
-    @staticmethod
-    def c_move_army():
+    def c_move_army(self):
         log.info('c_move_army')
+        self.void_method()
+        my_pygui.moveTo(100, 100)
         loc = my_pygui.locateOnScreen('resource/c_move.png',
                                       region=(1100, 800, 500, 200),
                                       confidence=0.90)
@@ -1062,9 +1069,10 @@ class Adventure:
         else:
             return False
 
-    @staticmethod
-    def c_attack_army():
+    def c_attack_army(self):
         log.info('c_attack_army')
+        self.void_method()
+        my_pygui.moveTo(100, 100)
         loc = my_pygui.locateOnScreen('resource/c_attack.png',
                                       region=(1100, 800, 500, 200),
                                       confidence=0.90)
