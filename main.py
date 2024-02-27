@@ -737,7 +737,7 @@ class Adventure:
         my_pygui.click(self.coordinations['book'].get())
 
         while True:
-            my_pygui.click((self.coordinations['book_down']-Point(135, 388)).get())
+            my_pygui.click((self.coordinations['book_down'] - Point(135, 388)).get())
             my.wait(5)
             locations = my_pygui.locateAllOnScreen('resource/task.png', confidence=0.9)
             if len(locations) == 0:
@@ -753,7 +753,7 @@ class Adventure:
             else:
                 locations.sort(key=lambda i: -i.y)
                 loc = locations[0]
-                my_pygui.click((loc-Point(100, 0)).get())
+                my_pygui.click((loc - Point(100, 0)).get())
                 loc = my_pygui.locateOnScreen('resource/start_adventure.png', confidence=0.9)
                 if loc is None:
                     raise Exception('Button not found.')
@@ -1082,7 +1082,7 @@ class Adventure:
         self.focus()
         with open('client_file/swap.txt', 'w') as f:
             if mode is Mode.teach_co:
-                swap_text = '\\'.join([os.getcwd(), 'data', self.name, self.c_action_file_chose()+'[a]'])
+                swap_text = '\\'.join([os.getcwd(), 'data', self.name, self.c_action_file_chose() + '[a]'])
             elif mode is Mode.play:
                 swap_text = action['file_loc']
             f.write(swap_text.replace('\\', '\\\\'))
