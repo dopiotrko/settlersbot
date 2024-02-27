@@ -1,0 +1,158 @@
+{
+ "611496.0": {
+  "grid": 6304,
+  "name": "<b>Mlodszy 2</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 7323,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "1275443.0": {
+  "grid": 6100,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 7323,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "2949161.0": {
+  "grid": 6781,
+  "name": "<b>Generał Mróz</b>",
+  "order": 2,
+  "time": 25000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 64,
+  "target": 6156,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "1696340.0": {
+  "grid": 6918,
+  "name": "<b>Generał samotnik</b>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Cavalry": 245
+  },
+  "type": 67,
+  "target": 6156,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "2730297.0": {
+  "grid": 6852,
+  "name": "<b>Mlodszy 5</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 4,
+  "time": 5000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 6022,
+  "targetName": "Przywódca bandytów"
+ },
+ "3687221.0": {
+  "grid": 6856,
+  "name": "<b>Czempion Nusala</b>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "0": 3,
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 25,
+   "Cavalry": 155
+  },
+  "type": 31,
+  "target": 6022,
+  "targetName": "Przywódca bandytów"
+ },
+ "1790222.0": {
+  "grid": 6170,
+  "name": "<b>Kaptur 3</b> <font size='-3'>(Zakapturzony generał)</font>",
+  "order": 6,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 85,
+   "Cavalry": 130
+  },
+  "type": 56,
+  "target": 7796,
+  "targetName": "Przywódca bandytów"
+ }
+}

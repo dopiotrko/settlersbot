@@ -1,0 +1,136 @@
+{
+ "1275443.0": {
+  "grid": 2250,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 2077,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "464473.0": {
+  "grid": 2113,
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 1,
+  "time": 30000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 57,
+  "target": 1732,
+  "targetName": "Przywódca bandytów"
+ },
+ "1400744.0": {
+  "grid": 1841,
+  "name": "<b>Duch 7</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 120,
+   "Cannoneer": 110
+  },
+  "type": 63,
+  "target": 1732,
+  "targetName": "Przywódca bandytów"
+ },
+ "2949160.0": {
+  "grid": 1976,
+  "name": "<b>Generał Mróz</b>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "5": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 64,
+  "target": 1741,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "611496.0": {
+  "grid": 1704,
+  "name": "<b>Mlodszy 2</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 1741,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "665831.0": {
+  "grid": 1500,
+  "name": "<b>Duch 6</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 5,
+  "time": 26000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 120,
+   "Cannoneer": 110
+  },
+  "type": 63,
+  "target": 999,
+  "targetName": "Przywódca bandytów"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "2739016.0": {
+  "grid": 2850,
+  "order": 0,
+  "time": 1000,
+  "type": 79,
+  "target": 1070,
+  "targetName": "Sailor Camp (easy)",
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "632528.0": {
+  "grid": 4685,
+  "order": 1,
+  "time": 1000,
+  "type": 63,
+  "target": 868,
+  "targetName": "Sailor Leader",
+  "name": "<b>Duch 4</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ }
+}

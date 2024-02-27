@@ -1,0 +1,104 @@
+{
+ "766.0": {
+  "grid": 6689,
+  "name": "<b>G 01</b> <font size='-3'>(Generał)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "EliteSoldier": 61,
+   "Cavalry": 139
+  },
+  "type": 0
+ },
+ "252.0": {
+  "grid": 6966,
+  "name": "<b>G 02</b> <font size='-3'>(Generał)</font>",
+  "order": 1,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "Soldier": 5,
+   "EliteSoldier": 69,
+   "Cavalry": 126
+  },
+  "type": 0
+ },
+ "1443.0": {
+  "grid": 3680,
+  "name": "<b>G 03</b> <font size='-3'>(Generał)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {},
+  "army": {},
+  "type": 0
+ },
+ "1725.0": {
+  "grid": 7232,
+  "name": "<b>G 04</b> <font size='-3'>(Generał)</font>",
+  "order": 3,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "Soldier": 65,
+   "EliteSoldier": 130
+  },
+  "type": 0
+ },
+ "1726.0": {
+  "grid": 7705,
+  "name": "<b>G 05</b> <font size='-3'>(Generał)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "Soldier": 70,
+   "EliteSoldier": 130
+  },
+  "type": 0
+ },
+ "25843.0": {
+  "grid": 6468,
+  "name": "<b>Generał Sylvana</b>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {},
+  "type": 57
+ },
+ "25545.0": {
+  "grid": 8245,
+  "name": "<b>Major</b> <font size='-3'>(Generał major)</font>",
+  "order": 6,
+  "time": 1000,
+  "skills": {
+   "11": 3
+  },
+  "army": {
+   "Militia": 45,
+   "Cavalry": 114,
+   "Crossbowman": 111
+  },
+  "type": 13
+ },
+ "1646.0": {
+  "grid": 6128,
+  "name": "<b>Weteran</b>",
+  "order": 7,
+  "time": 1000,
+  "skills": {
+   "11": 3
+  },
+  "army": {},
+  "type": 9
+ }
+}

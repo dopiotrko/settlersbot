@@ -1,0 +1,65 @@
+{
+  "1275443.0": {
+    "grid": 3805,
+    "order": 4,
+    "time": 1000,
+    "army": {
+      "Bowman": 155
+    },
+    "type": 50,
+    "target": 1861,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u0441\u0435\u0432\u0435\u0440\u044f\u043d (\u0441\u043b\u043e\u0436\u043d\u044b\u0439)",
+    "name": "<b>Mlodszy 3</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "555690.0": {
+    "grid": 3688,
+    "order": 5,
+    "time": 15000,
+    "army": {
+      "MountedSwordsman": 20,
+      "ArmoredMarksman": 275
+    },
+    "type": 47,
+    "target": 1861,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u0441\u0435\u0432\u0435\u0440\u044f\u043d (\u0441\u043b\u043e\u0436\u043d\u044b\u0439)",
+    "name": "<b>Starszy genera\u0142 Gemini</b>"
+  },
+  "668968.0": {
+    "grid": 3922,
+    "order": 6,
+    "time": 30000,
+    "army": {
+      "MountedSwordsman": 15,
+      "MountedMarksman": 220
+    },
+    "type": 52,
+    "target": 1623,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u0441\u0435\u0432\u0435\u0440\u044f\u043d (\u0441\u043b\u043e\u0436\u043d\u044b\u0439)",
+    "name": "<b>Niezlomna 1</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "611496.0": {
+    "grid": 3865,
+    "order": 7,
+    "time": 40000,
+    "army": {
+      "Bowman": 40
+    },
+    "type": 50,
+    "target": 1156,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u0441\u0435\u0432\u0435\u0440\u044f\u043d (\u0432\u043e\u0436\u0430\u043a)",
+    "name": "<b>Mlodszy 2</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "327180.0": {
+    "grid": 4043,
+    "order": 8,
+    "time": 1000,
+    "army": {
+      "MountedSwordsman": 50,
+      "ArmoredMarksman": 235
+    },
+    "type": 13,
+    "target": 1156,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u0441\u0435\u0432\u0435\u0440\u044f\u043d (\u0432\u043e\u0436\u0430\u043a)",
+    "name": "<b>GM1</b> <font size='-3'>(Genera\u0142 major)</font>"
+  }
+}

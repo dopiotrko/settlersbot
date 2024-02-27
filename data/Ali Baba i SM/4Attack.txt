@@ -1,0 +1,40 @@
+{
+ "2739016.0": {
+  "grid": 2491,
+  "order": 0,
+  "time": 1000,
+  "type": 79,
+  "target": 3169,
+  "targetName": "Campamento de bandidos d...",
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "672613.0": {
+  "grid": 2354,
+  "order": 1,
+  "time": 1000,
+  "type": 52,
+  "target": 2359,
+  "targetName": "Tumba",
+  "name": "<b>Niezlomna 2</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

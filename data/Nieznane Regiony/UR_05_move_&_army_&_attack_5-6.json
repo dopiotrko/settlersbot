@@ -1,0 +1,40 @@
+{
+  "611496.0": {
+    "grid": 4637,
+    "order": 0,
+    "time": 1000,
+    "army": {
+      "Recruit": 90
+    },
+    "type": 50,
+    "target": 5055,
+    "targetName": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0441 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c\u0438 (\u043f\u0440\u043e\u0441...",
+    "name": "<b>Mlodszy 2</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "672613.0": {
+    "grid": 4936,
+    "order": 1,
+    "time": 50000,
+    "army": {
+      "MountedSwordsman": 30,
+      "MountedMarksman": 205
+    },
+    "type": 52,
+    "target": 4586,
+    "targetName": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0441 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c\u0438 (\u043f\u0440\u043e\u0441...",
+    "name": "<b>Niezlomna 2</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "606778.0": {
+    "grid": 4760,
+    "order": 2,
+    "time": 70000,
+    "army": {
+      "Knight": 160,
+      "Besieger": 70
+    },
+    "type": 63,
+    "target": 4999,
+    "targetName": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0443\u0445\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0437\u0432\u0435\u0440\u0435\u0439 ...",
+    "name": "<b>Duch 1</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  }
+}

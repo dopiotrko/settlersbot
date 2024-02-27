@@ -1,0 +1,105 @@
+{
+ "2949160.0": {
+  "grid": 6128,
+  "name": "<b>Generał Mróz</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "5": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {},
+  "type": 64
+ },
+ "3604117.0": {
+  "grid": 6331,
+  "name": "<b>GM5</b> <font size='-3'>(Generał major)</font>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {},
+  "type": 13
+ },
+ "2713118.0": {
+  "grid": 5717,
+  "name": "<b>Mlodszy 4</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {},
+  "type": 50
+ },
+ "2730297.0": {
+  "grid": 5921,
+  "name": "<b>Mlodszy 5</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {},
+  "type": 50
+ },
+ "4881706.0": {
+  "grid": 6058,
+  "name": "<b>Mlodszy 6</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {},
+  "type": 50
+ },
+ "500146.0": {
+  "grid": 6468,
+  "name": "<b>Q 2</b> <font size='-3'>(Główny kwatermistrz)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "4": 3,
+   "5": 1
+  },
+  "army": {},
+  "type": 12
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "zoneId": -10737786,
+ "zoneUser": "BuffAdventures_Storm_Recovery",
+ "data": [
+  {
+   "buffName": "ChangeSkin_BuffAd_SchoolKit",
+   "buiGrid": 5614,
+   "buiName": "buffad_building_site4"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_TavernKit1",
+   "buiGrid": 5884,
+   "buiName": "buffad_building_site2"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_TavernKit1",
+   "buiGrid": 3988,
+   "buiName": "buffad_building_site2"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_NobleResidenceKit",
+   "buiGrid": 2342,
+   "buiName": "buffad_building_site2"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_NobleResidenceKit",
+   "buiGrid": 1935,
+   "buiName": "buffad_building_site3"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_ResidenceKit",
+   "buiGrid": 1880,
+   "buiName": "buffad_building_site3"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_ResidenceKit",
+   "buiGrid": 2150,
+   "buiName": "buffad_building_site1"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_ResidenceKit",
+   "buiGrid": 2424,
+   "buiName": "buffad_building_site1"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_ResidenceKit",
+   "buiGrid": 3387,
+   "buiName": "buffad_building_site1"
+  }
+ ]
+}

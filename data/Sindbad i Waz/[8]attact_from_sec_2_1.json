@@ -1,0 +1,141 @@
+{
+ "2309747.0": {
+  "grid": 3814,
+  "name": "<b>Sylvana 6</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 14,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 10,
+   "MountedMarksman": 185
+  },
+  "type": 57,
+  "target": 3952,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ },
+ "3382365.0": {
+  "grid": 3201,
+  "name": "<b>Sylvana 7</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 15,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 22,
+   "MountedMarksman": 173
+  },
+  "type": 57,
+  "target": 3751,
+  "targetName": "Obóz żeglarzy (trudny)"
+ },
+ "2749638.0": {
+  "grid": 3066,
+  "name": "<b>Czempion Anslem</b>",
+  "order": 16,
+  "time": 26000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "13": 2,
+   "14": 1,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 21,
+   "Knight": 31,
+   "Besieger": 113
+  },
+  "type": 30,
+  "target": 3413,
+  "targetName": "Obóz żeglarzy (średni)"
+ },
+ "1964910.0": {
+  "grid": 2931,
+  "name": "<b>Czempion Vargus</b>",
+  "order": 17,
+  "time": 24000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 75,
+   "Besieger": 120
+  },
+  "type": 29,
+  "target": 3207,
+  "targetName": "Przywódca żeglarzy"
+ },
+ "384781.0": {
+  "grid": 2590,
+  "name": "<b>Boris 1</b> <font size='-3'>(Generał Borys)</font>",
+  "order": 18,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "16": 1
+  },
+  "army": {
+   "MountedSwordsman": 33,
+   "MountedMarksman": 162
+  },
+  "type": 43,
+  "target": 2939,
+  "targetName": "Obóz żeglarzy (średni)"
+ },
+ "836460.0": {
+  "grid": 1912,
+  "name": "<b>Kaptur 1</b> <font size='-3'>(Zakapturzony generał)</font>",
+  "order": 19,
+  "time": 3000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+  "MountedMarksman": 215
+  },
+  "type": 56,
+  "target": 1921,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ }
+}

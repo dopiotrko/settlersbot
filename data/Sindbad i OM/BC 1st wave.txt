@@ -1,0 +1,40 @@
+{
+ "1790223.0": {
+  "grid": 1374,
+  "order": 0,
+  "time": 1000,
+  "type": 56,
+  "target": 2188,
+  "targetName": "Sailor Leader",
+  "name": "<b>Zakapturzony generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "606778.0": {
+  "grid": 1445,
+  "order": 1,
+  "time": 1000,
+  "type": 63,
+  "target": 972,
+  "targetName": "Sailor Camp (hard)",
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ }
+}

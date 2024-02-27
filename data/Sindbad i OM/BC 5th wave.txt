@@ -1,0 +1,60 @@
+{
+ "448999.0": {
+  "grid": 6981,
+  "order": 0,
+  "time": 1000,
+  "type": 57,
+  "target": 4820,
+  "targetName": "Sailor Camp (easy)",
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "grid": 7182,
+  "order": 1,
+  "time": 14000,
+  "type": 57,
+  "target": 4278,
+  "targetName": "Sailor Camp (hard)",
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2749638.0": {
+  "grid": 7247,
+  "order": 2,
+  "time": 12000,
+  "type": 30,
+  "target": 4075,
+  "targetName": "Sailor Leader",
+  "name": "<b>Czempion Anslem</b>",
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "13": 2,
+   "14": 1,
+   "19": 1
+  }
+ }
+}

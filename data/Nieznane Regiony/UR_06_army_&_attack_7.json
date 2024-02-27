@@ -1,0 +1,28 @@
+{
+  "672613.0": {
+    "grid": 4936,
+    "order": 1,
+    "time": 1000,
+    "army": {
+      "Knight": 55
+    },
+    "type": 52,
+    "target": 5825,
+    "targetName": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0443\u0445\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0437\u0432\u0435\u0440\u0435\u0439 ...",
+    "name": "<b>Niezlomna 2</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "606778.0": {
+    "grid": 4760,
+    "order": 2,
+    "time": 5000,
+    "army": {
+      "MountedSwordsman": 15,
+      "Knight": 110,
+      "Besieger": 105
+    },
+    "type": 63,
+    "target": 5825,
+    "targetName": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0443\u0445\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0437\u0432\u0435\u0440\u0435\u0439 ...",
+    "name": "<b>Duch 1</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  }
+}

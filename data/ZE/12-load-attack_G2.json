@@ -1,0 +1,93 @@
+{
+ "632286.0": {
+  "grid": 2225,
+  "name": "<b>Duch 3</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 120,
+   "Cannoneer": 110
+  },
+  "type": 63,
+  "target": 2703,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "1612996.0": {
+  "grid": 2222,
+  "name": "<b>Generał samotnik</b>",
+  "order": 4,
+  "time": 5000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Cavalry": 245
+  },
+  "type": 67,
+  "target": 3458,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "1790222.0": {
+  "grid": 1680,
+  "name": "<b>Kaptur 3</b> <font size='-3'>(Zakapturzony generał)</font>",
+  "order": 5,
+  "time": 25000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 85,
+   "Cavalry": 130
+  },
+  "type": 56,
+  "target": 3385,
+  "targetName": "Przywódca bandytów"
+ },
+ "632528.0": {
+  "grid": 2085,
+  "name": "<b>Duch 4</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 6,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 120,
+   "Cannoneer": 110
+  },
+  "type": 63,
+  "target": 3937,
+  "targetName": "Przywódca bandytów"
+ }
+}

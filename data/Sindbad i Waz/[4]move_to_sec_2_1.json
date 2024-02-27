@@ -1,0 +1,229 @@
+{
+ "384781.0": {
+  "grid": 2590,
+  "name": "<b>Boris 1</b> <font size='-3'>(Generał Borys)</font>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "16": 1
+  },
+  "army": {
+   "MountedSwordsman": 33,
+   "MountedMarksman": 162
+  },
+  "type": 43
+ },
+ "2749638.0": {
+  "grid": 3066,
+  "name": "<b>Czempion Anslem</b>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "13": 2,
+   "14": 1,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 21,
+   "Knight": 31,
+   "Besieger": 113
+  },
+  "type": 30
+ },
+ "1964910.0": {
+  "grid": 2931,
+  "name": "<b>Czempion Vargus</b>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 75,
+   "Besieger": 120
+  },
+  "type": 29
+ },
+ "836460.0": {
+  "grid": 1912,
+  "name": "<b>Zakapturzony generał</b>",
+  "order": 78,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+  "MountedMarksman": 230
+  },
+  "type": 56
+ },
+ "2309747.0": {
+  "grid": 3814,
+  "name": "<b>Sylvana 6</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 19,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 10,
+   "MountedMarksman": 185
+  },
+  "type": 57
+ },
+ "3382365.0": {
+  "grid": 3201,
+  "name": "<b>Sylvana 7</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 20,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 22,
+   "MountedMarksman": 173
+  },
+  "type": 57
+ },
+ "327180.0": {
+  "grid": 1914,
+  "name": "<b>GM1</b> <font size='-3'>(Generał major)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Swordsman": 4,
+   "MountedSwordsman": 8,
+   "Knight": 34,
+   "ArmoredMarksman": 82,
+   "MountedMarksman": 157
+  },
+  "type": 13
+ },
+ "1140787.0": {
+  "grid": 1779,
+  "name": "<b>Krzyk 1</b> <font size='-3'>(Generał Krzykliwa)</font>",
+  "order": 6,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 44,
+   "MountedMarksman": 141
+  },
+  "type": 72
+ },
+ "1275443.0": {
+  "grid": 1642,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 12,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Swordsman": 1,
+   "Knight": 33
+  },
+  "type": 50
+ },
+ "668968.0": {
+  "grid": 1777,
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "order": 13,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 55,
+   "MountedMarksman": 180
+  },
+  "type": 52
+ },
+"4739.0": {
+  "grid": 3743,
+  "name": "<b>Basic 2</b> <font size='-3'>(Generał)</font>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  },
+  "army": {},
+  "type": 0
+ }
+}

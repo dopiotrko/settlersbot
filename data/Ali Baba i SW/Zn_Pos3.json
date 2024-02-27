@@ -1,0 +1,66 @@
+{
+  "672613.0": {
+    "grid": 7020,
+    "order": 0,
+    "time": 1000,
+    "army": {},
+    "type": 52,
+    "name": "<b>Niezlomna 2</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "668968.0": {
+    "grid": 6954,
+    "order": 1,
+    "time": 1000,
+    "army": {},
+    "type": 52,
+    "name": "<b>Niezlomna 1</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "1627551.0": {
+    "grid": 415,
+    "order": 2,
+    "time": 1000,
+    "army": {},
+    "type": 54,
+    "name": "<b>Kwatermistrz Wielkosercy</b>"
+  },
+  "629130.0": {
+    "grid": 7087,
+    "order": 3,
+    "time": 1000,
+    "army": {},
+    "type": 63,
+    "name": "<b>Duch 2</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "606776.0": {
+    "grid": 7294,
+    "order": 4,
+    "time": 1000,
+    "army": {},
+    "type": 50,
+    "name": "<b>Mlodszy 1</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "1275443.0": {
+    "grid": 7228,
+    "order": 5,
+    "time": 1000,
+    "army": {},
+    "type": 50,
+    "name": "<b>Mlodszy 3</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "464473.0": {
+    "grid": 7091,
+    "order": 7,
+    "time": 1000,
+    "army": {},
+    "type": 57,
+    "name": "<b>Sylvana 2</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "1069408.0": {
+    "grid": 7157,
+    "order": 8,
+    "time": 1000,
+    "army": {},
+    "type": 43,
+    "name": "<b>Sylvana 4</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  }
+}

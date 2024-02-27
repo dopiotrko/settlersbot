@@ -1,0 +1,133 @@
+{
+  "448999.0": {
+    "grid": 9450,
+    "order": 0,
+    "time": 1000,
+    "army": {
+      "MountedSwordsman": 195
+    },
+    "type": 57,
+    "name": "<b>Sylvana 1</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "2962051.0": {
+    "grid": 9178,
+    "order": 1,
+    "time": 1000,
+    "army": {
+      "ArmoredMarksman": 705,
+      "MountedMarksman": 385,
+      "Besieger": 260
+    },
+    "type": 27,
+    "name": "<b>Kwatermistrz Miko\u0142aj</b>"
+  },
+  "606776.0": {
+    "grid": 10605,
+    "order": 2,
+    "time": 1000,
+    "army": {
+      "Recruit": 155
+    },
+    "type": 50,
+    "name": "<b>Mlodszy 1</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "606778.0": {
+    "grid": 9629,
+    "order": 3,
+    "time": 1000,
+    "army": {},
+    "type": 63,
+    "name": "<b>Duch 1</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "327180.0": {
+    "grid": 12402,
+    "order": 4,
+    "time": 1000,
+    "army": {},
+    "type": 13,
+    "name": "<b>GM1</b> <font size='-3'>(Genera\u0142 major)</font>"
+  },
+  "668968.0": {
+    "grid": 9808,
+    "order": 5,
+    "time": 1000,
+    "army": {},
+    "type": 52,
+    "name": "<b>Niezlomna 1</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "464473.0": {
+    "grid": 9987,
+    "order": 6,
+    "time": 1000,
+    "army": {
+      "Bowman": 100
+    },
+    "type": 57,
+    "name": "<b>Sylvana 2</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "2962050.0": {
+    "grid": 9357,
+    "order": 7,
+    "time": 1000,
+    "army": {
+      "MountedSwordsman": 505,
+      "Knight": 850
+    },
+    "type": 27,
+    "name": "<b>Kwatermistrz Miko\u0142aj</b>"
+  },
+  "611496.0": {
+    "grid": 10341,
+    "order": 8,
+    "time": 1000,
+    "army": {
+      "Recruit": 155
+    },
+    "type": 50,
+    "name": "<b>Mlodszy 2</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "629130.0": {
+    "grid": 9627,
+    "order": 9,
+    "time": 1000,
+    "army": {},
+    "type": 63,
+    "name": "<b>Duch 2</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "555690.0": {
+    "grid": 12610,
+    "order": 10,
+    "time": 1000,
+    "army": {},
+    "type": 47,
+    "name": "<b>Starszy genera\u0142 Gemini</b>"
+  },
+  "672613.0": {
+    "grid": 9806,
+    "order": 11,
+    "time": 1000,
+    "army": {},
+    "type": 52,
+    "name": "<b>Niezlomna 2</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "1275443.0": {
+    "grid": 10166,
+    "order": 12,
+    "time": 1000,
+    "army": {
+      "Bowman": 155
+    },
+    "type": 50,
+    "name": "<b>Mlodszy 3</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "2713118.0": {
+    "grid": 9985,
+    "order": 13,
+    "time": 1000,
+    "army": {
+      "Bowman": 155
+    },
+    "type": 50,
+    "name": "<b>Mlodszy 4</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  }
+}

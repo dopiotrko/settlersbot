@@ -1,0 +1,181 @@
+{
+ "5719372.0": {
+  "grid": 3680,
+  "name": "<b>Czempion Nusala</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "0": 3,
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 19,
+   "EliteSoldier": 1,
+   "Crossbowman": 160
+  },
+  "type": 31,
+  "target": 4026,
+  "targetName": "Obóz wikingów (przywódca)"
+ },
+ "3687221.0": {
+  "grid": 3545,
+  "name": "<b>Czempion Nusala</b>",
+  "order": 1,
+  "time": 55000,
+  "skills": {
+   "0": 3,
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Crossbowman": 180
+  },
+  "type": 31,
+  "target": 5457,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "606776.0": {
+  "grid": 3610,
+  "name": "<b>Mlodszy 1</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 4,
+  "time": 40000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 6067,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "555690.0": {
+  "grid": 3408,
+  "name": "<b>Starszy generał Gemini</b>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Crossbowman": 295
+  },
+  "type": 47,
+  "target": 6067,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "611496.0": {
+  "grid": 3406,
+  "name": "<b>Mlodszy 2</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 6,
+  "time": 29000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 6141,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "4718158.0": {
+  "grid": 3271,
+  "name": "<b>Starszy generał Gemini</b>",
+  "order": 7,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Militia": 20,
+   "Crossbowman": 275
+  },
+  "type": 47,
+  "target": 6141,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "3604117.0": {
+  "grid": 6331,
+  "name": "<b>GM5</b> <font size='-3'>(Generał major)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Crossbowman": 285
+  },
+  "type": 13,
+  "target": 5667,
+  "targetName": "Obóz wikingów (przywódca)"
+ },
+ "1275443.0": {
+  "grid": 3136,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 8,
+  "time": 30000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 5667,
+  "targetName": "Obóz wikingów (przywódca)"
+ }
+}

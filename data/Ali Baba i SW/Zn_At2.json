@@ -1,0 +1,66 @@
+{
+  "1069408.0": {
+    "grid": 2095,
+    "order": 0,
+    "time": 1000,
+    "army": {
+      "MountedMarksman": 195
+    },
+    "type": 43,
+    "target": 7373,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Sylvana 4</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "672613.0": {
+    "grid": 1212,
+    "order": 1,
+    "time": 10000,
+    "army": {
+      "MountedSwordsman": 10,
+      "MountedMarksman": 225
+    },
+    "type": 52,
+    "target": 6963,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Niezlomna 2</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "606778.0": {
+    "grid": 942,
+    "order": 2,
+    "time": 5000,
+    "army": {
+      "MountedSwordsman": 230
+    },
+    "type": 63,
+    "target": 1866,
+    "targetName": "\u0412\u043e\u0436\u0430\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438...",
+    "name": "<b>Duch 1</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "448999.0": {
+    "grid": 1481,
+    "order": 3,
+    "time": 30000,
+    "army": {
+      "MountedSwordsman": 20,
+      "MountedMarksman": 175
+    },
+    "type": 57,
+    "target": 3799,
+    "targetName": "\u0412\u043e\u0436\u0430\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438...",
+    "name": "<b>Sylvana 1</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "629130.0": {
+    "grid": 1416,
+    "order": 4,
+    "time": 5000,
+    "army": {
+      "MountedSwordsman": 110,
+      "Knight": 10,
+      "Besieger": 110
+    },
+    "type": 63,
+    "target": 6965,
+    "targetName": "\u0412\u043e\u0436\u0430\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438...",
+    "name": "<b>Duch 2</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  }
+}

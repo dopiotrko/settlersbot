@@ -1,0 +1,98 @@
+{
+  "448999.0": {
+    "grid": 4219,
+    "order": 0,
+    "time": 1000,
+    "army": {},
+    "type": 57,
+    "name": "<b>Sylvana 1</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "606776.0": {
+    "grid": 4396,
+    "order": 2,
+    "time": 1000,
+    "army": {},
+    "type": 50,
+    "name": "<b>Mlodszy 1</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "606778.0": {
+    "grid": 3571,
+    "order": 3,
+    "time": 1000,
+    "army": {},
+    "type": 63,
+    "name": "<b>Duch 1</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "327180.0": {
+    "grid": 4043,
+    "order": 4,
+    "time": 1000,
+    "army": {},
+    "type": 13,
+    "name": "<b>GM1</b> <font size='-3'>(Genera\u0142 major)</font>"
+  },
+  "668968.0": {
+    "grid": 3807,
+    "order": 5,
+    "time": 1000,
+    "army": {},
+    "type": 52,
+    "name": "<b>Niezlomna 1</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "464473.0": {
+    "grid": 3569,
+    "order": 6,
+    "time": 1000,
+    "army": {},
+    "type": 57,
+    "name": "<b>Sylvana 2</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "611496.0": {
+    "grid": 3982,
+    "order": 8,
+    "time": 1000,
+    "army": {},
+    "type": 50,
+    "name": "<b>Mlodszy 2</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "629130.0": {
+    "grid": 3686,
+    "order": 9,
+    "time": 1000,
+    "army": {},
+    "type": 63,
+    "name": "<b>Duch 2</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "555690.0": {
+    "grid": 3688,
+    "order": 10,
+    "time": 1000,
+    "army": {},
+    "type": 47,
+    "name": "<b>Starszy genera\u0142 Gemini</b>"
+  },
+  "672613.0": {
+    "grid": 3922,
+    "order": 11,
+    "time": 1000,
+    "army": {},
+    "type": 52,
+    "name": "<b>Niezlomna 2</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "1275443.0": {
+    "grid": 3805,
+    "order": 12,
+    "time": 1000,
+    "army": {},
+    "type": 50,
+    "name": "<b>Mlodszy 3</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "2713118.0": {
+    "grid": 3452,
+    "order": 13,
+    "time": 1000,
+    "army": {},
+    "type": 50,
+    "name": "<b>Mlodszy 4</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  }
+}

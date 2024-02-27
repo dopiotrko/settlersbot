@@ -1,0 +1,38 @@
+{
+ "464473.0": {
+  "type": 57,
+  "army": {
+   "MountedSwordsman": 15,
+   "MountedMarksman": 180
+  },
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "606778.0": {
+  "type": 63,
+  "army": {
+   "MountedSwordsman": 90,
+   "MountedMarksman": 140
+  },
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ }
+}

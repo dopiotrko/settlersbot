@@ -1,0 +1,11 @@
+{
+ "zoneId": -10737786,
+ "zoneUser": "BuffAdventures_Storm_Recovery",
+ "data": [
+  {
+   "buffName": "EmptyEffectBuff_BuffAd_StickyFluid",
+   "buiGrid": 3440,
+   "buiName": "StormPreventionSystem"
+  }
+ ]
+}

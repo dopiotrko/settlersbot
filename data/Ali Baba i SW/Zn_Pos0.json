@@ -1,0 +1,58 @@
+{
+  "668968.0": {
+    "grid": 621,
+    "order": 2,
+    "time": 1000,
+    "army": {},
+    "type": 52,
+    "name": "<b>Niezlomna 1</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "606778.0": {
+    "grid": 826,
+    "order": 6,
+    "time": 1000,
+    "army": {},
+    "type": 63,
+    "name": "<b>Duch 1</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "606776.0": {
+    "grid": 484,
+    "order": 7,
+    "time": 1000,
+    "army": {},
+    "type": 50,
+    "name": "<b>Mlodszy 1</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "819068.0": {
+    "grid": 691,
+    "order": 13,
+    "time": 1000,
+    "army": {},
+    "type": 57,
+    "name": "<b>Sylvana 3</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "464473.0": {
+    "grid": 487,
+    "order": 14,
+    "time": 1000,
+    "army": {},
+    "type": 57,
+    "name": "<b>Sylvana 2</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "448999.0": {
+    "grid": 418,
+    "order": 15,
+    "time": 1000,
+    "army": {},
+    "type": 57,
+    "name": "<b>Sylvana 1</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "673906.0": {
+    "grid": 415,
+    "order": 17,
+    "time": 1000,
+    "army": {},
+    "type": 33,
+    "name": "<b>Genera\u0142 Miko\u0142ajowa</b>"
+  }
+}

@@ -1,0 +1,471 @@
+{
+ "555690.0": {
+  "grid": 9302,
+  "name": "<b>Starszy generał Gemini</b>",
+  "order": 92,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 5,
+   "MountedMarksman": 90,
+   "ArmoredMarksman": 200
+  },
+  "type": 47
+ },
+ "448999.0": {
+  "grid": 8501,
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 93,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 13,
+   "Knight": 182
+  },
+  "type": 57
+ },
+ "464473.0": {
+  "grid": 9326,
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 94,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 61,
+   "MountedMarksman": 134
+  },
+  "type": 57
+ },
+ "606776.0": {
+  "grid": 9149,
+  "name": "<b>Mlodszy 1</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 79,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50
+ },
+ "819068.0": {
+  "grid": 12653,
+  "name": "<b>Sylvana 3</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 92,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 30,
+   "MountedMarksman": 165
+  },
+  "type": 57
+ },
+ "1069408.0": {
+  "grid": 12970,
+  "name": "<b>Sylvana 4</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 93,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 31,
+   "MountedMarksman": 164
+  },
+  "type": 57
+ },
+ "1751997.0": {
+  "grid": 12804,
+  "name": "<b>Sylvana 5</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 94,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedMarksman": 195
+  },
+  "type": 57
+ },
+ "672614.0": {
+  "grid": 8385,
+  "name": "<b>Kwatermistrz Mikołaj</b>",
+  "order": 58,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "4": 3,
+   "5": 1
+  },
+  "army": {
+   "Knight": 176,
+   "ArmoredMarksman": 10,
+   "MountedMarksman": 198,
+   "Besieger": 616
+  },
+  "type": 27
+ },
+ "672615.0": {
+  "grid": 8408,
+  "name": "<b>Kwatermistrz Mikołaj</b>",
+  "order": 62,
+  "time": 1000,
+  "skills": {
+   "0": 3,
+   "1": 3,
+   "2": 1
+  },
+  "army": {
+   "MountedSwordsman": 496,
+   "MountedMarksman": 1504
+  },
+  "type": 27
+ },
+ "611496.0": {
+  "grid": 9300,
+  "name": "<b>Mlodszy 2</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 79,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 125
+  },
+  "type": 50
+ },
+ "456066.0": {
+  "grid": 13058,
+  "name": "<b>Q 1</b> <font size='-3'>(Główny kwatermistrz)</font>",
+  "order": 88,
+  "time": 1000,
+  "skills": {
+   "0": 3,
+   "1": 3,
+   "2": 1
+  },
+  "army": {
+   "MountedSwordsman": 1712,
+   "MountedMarksman": 288
+  },
+  "type": 12
+ },
+ "500146.0": {
+  "grid": 12253,
+  "name": "<b>Q 2</b> <font size='-3'>(Główny kwatermistrz)</font>",
+  "order": 89,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "4": 3,
+   "5": 1
+  },
+  "army": {
+   "Knight": 684,
+   "ArmoredMarksman": 299,
+   "MountedMarksman": 17
+  },
+  "type": 12
+ },
+ "163.0": {
+  "grid": 8768,
+  "name": "<b>Basic 1</b> <font size='-3'>(Generał)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  },
+  "army": {
+   "MountedSwordsman": 200
+  },
+  "type": 0
+ },
+ "384781.0": {
+  "grid": 13096,
+  "name": "<b>Boris 1</b> <font size='-3'>(Generał Borys)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "16": 1
+  },
+  "army": {
+   "Swordsman": 30
+  },
+  "type": 43
+ },
+ "2749638.0": {
+  "grid": 12593,
+  "name": "<b>Czempion Anslem</b>",
+  "order": 7,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "13": 2,
+   "14": 1,
+   "19": 1
+  },
+  "army": {},
+  "type": 30
+ },
+ "1964910.0": {
+  "grid": 13502,
+  "name": "<b>Czempion Vargus</b>",
+  "order": 9,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {},
+  "type": 29
+ },
+ "836460.0": {
+  "grid": 13801,
+  "name": "<b>Zakapturzony generał</b>",
+  "order": 78,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {},
+  "type": 56
+ },
+ "327180.0": {
+  "grid": 9121,
+  "name": "<b>GM1</b> <font size='-3'>(Generał major)</font>",
+  "order": 47,
+  "time": 1000,
+  "skills": {
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 25,
+   "Crossbowman": 245
+  },
+  "type": 13
+ },
+ "668968.0": {
+  "grid": 9387,
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "order": 79,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  },
+  "army": {},
+  "type": 52
+ },
+ "2309747.0": {
+  "grid": 12784,
+  "name": "<b>Sylvana 6</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 85,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {},
+  "type": 57
+ },
+ "3382365.0": {
+  "grid": 13132,
+  "name": "<b>Sylvana 7</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 86,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {},
+  "type": 57
+ },
+ "1140787.0": {
+  "grid": 10246,
+  "name": "<b>Krzyk 1</b> <font size='-3'>(Generał Krzykliwa)</font>",
+  "order": 51,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {},
+  "type": 72
+ },
+ "1275443.0": {
+  "grid": 10426,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 70,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50
+ },
+ "4739.0": {
+  "grid": 9239,
+  "name": "<b>Basic 2</b> <font size='-3'>(Generał)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  },
+  "army": {},
+  "type": 0
+ },
+ "2713118.0": {
+  "grid": 10420,
+  "name": "<b>Mlodszy 4</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 68,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50
+ }
+}

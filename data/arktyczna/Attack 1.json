@@ -1,0 +1,25 @@
+{
+ "3687221.0": {
+  "grid": 2893,
+  "name": "<b>Czempion Nusala</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "0": 3,
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "EliteSoldier": 10,
+   "Crossbowman": 170
+  },
+  "type": 31,
+  "target": 4803,
+  "targetName": "Obóz wikingów (średni)"
+ }
+}

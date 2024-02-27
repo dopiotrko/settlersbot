@@ -1,0 +1,14 @@
+{
+  "448999.0": {
+    "grid": 3995,
+    "order": 0,
+    "time": 1000,
+    "army": {
+      "MountedMarksman": 150
+    },
+    "type": 57,
+    "target": 3350,
+    "targetName": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0443\u0445\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0437\u0432\u0435\u0440\u0435\u0439 ...",
+    "name": "<b>Sylvana 1</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  }
+}

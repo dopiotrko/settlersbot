@@ -1,0 +1,21 @@
+{
+ "1790223.0": {
+  "grid": 1374,
+  "order": 0,
+  "time": 1000,
+  "type": 56,
+  "target": 703,
+  "targetName": "Sailor Leader",
+  "name": "<b>Zakapturzony generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

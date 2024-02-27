@@ -1,0 +1,104 @@
+{
+ "448999.0": {
+  "type": 57,
+  "army": {
+   "MountedSwordsman": 25,
+   "MountedMarksman": 170
+  },
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "type": 57,
+  "army": {
+   "MountedSwordsman": 16,
+   "MountedMarksman": 179
+  },
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "606776.0": {
+  "type": 50,
+  "army": {
+   "Swordsman": 15
+  },
+  "name": "<b>Mlodszy 1</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  }
+ },
+ "68934.0": {
+  "type": 0,
+  "army": {
+   "MountedSwordsman": 200
+  },
+  "name": "<b>Basic 3</b> <font size='-3'>(Generał)</font>",
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  }
+ },
+ "606778.0": {
+  "type": 63,
+  "army": {
+   "MountedSwordsman": 55,
+   "ArmoredMarksman": 175
+  },
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "566784.0": {
+  "type": 60,
+  "army": {
+   "MountedSwordsman": 15,
+   "ArmoredMarksman": 55,
+   "MountedMarksman": 105
+  },
+  "name": "<b>Generał Drżąca Broda</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

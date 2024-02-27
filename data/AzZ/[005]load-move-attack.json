@@ -1,0 +1,71 @@
+{
+ "5719372.0": {
+  "grid": 6275,
+  "name": "<b>Czempion Nusala</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "0": 3,
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 36,
+   "Crossbowman": 144
+  },
+  "type": 31,
+  "target": 6757,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "555690.0": {
+  "grid": 6138,
+  "name": "<b>Starszy generał Gemini</b>",
+  "order": 1,
+  "time": 26000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 44,
+   "Cavalry": 70,
+   "Crossbowman": 181
+  },
+  "type": 47,
+  "target": 7433,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "3687221.0": {
+  "grid": 6067,
+  "name": "<b>Czempion Nusala</b>",
+  "order": 2,
+  "time": 10000,
+  "skills": {
+   "0": 3,
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Crossbowman": 180
+  },
+  "type": 31,
+  "target": 8044,
+  "targetName": "Obóz wikingów (przywódca)"
+ }
+}

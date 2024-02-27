@@ -1,0 +1,90 @@
+{
+  "448999.0": {
+    "grid": 1481,
+    "order": 0,
+    "time": 1000,
+    "army": {
+      "Knight": 195
+    },
+    "type": 57,
+    "target": 3525,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Sylvana 1</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "606778.0": {
+    "grid": 1278,
+    "order": 1,
+    "time": 5000,
+    "army": {
+      "MountedSwordsman": 55,
+      "ArmoredMarksman": 100,
+      "MountedMarksman": 75
+    },
+    "type": 63,
+    "target": 728,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Duch 1</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "464473.0": {
+    "grid": 1555,
+    "order": 2,
+    "time": 10000,
+    "army": {
+      "MountedMarksman": 195
+    },
+    "type": 57,
+    "target": 1595,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Sylvana 2</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "819068.0": {
+    "grid": 1690,
+    "order": 3,
+    "time": 45000,
+    "army": {
+      "MountedSwordsman": 20,
+      "MountedMarksman": 175
+    },
+    "type": 57,
+    "target": 3933,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Sylvana 3</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "673906.0": {
+    "grid": 1143,
+    "order": 4,
+    "time": 45000,
+    "army": {
+      "MountedMarksman": 215
+    },
+    "type": 33,
+    "target": 6989,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Genera\u0142 Miko\u0142ajowa</b>"
+  },
+  "606776.0": {
+    "grid": 940,
+    "order": 5,
+    "time": 65000,
+    "army": {
+      "Recruit": 90
+    },
+    "type": 50,
+    "target": 7248,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Mlodszy 1</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "668968.0": {
+    "grid": 805,
+    "order": 6,
+    "time": 5000,
+    "army": {
+      "MountedSwordsman": 10,
+      "Knight": 225
+    },
+    "type": 52,
+    "target": 7248,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Niezlomna 1</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  }
+}

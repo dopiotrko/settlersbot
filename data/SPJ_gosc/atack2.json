@@ -1,0 +1,70 @@
+{
+ "665831.0": {
+  "grid": 4939,
+  "name": "<b>Duch 6</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 230
+  },
+  "type": 63,
+  "target": 3174,
+  "targetName": "Obóz kultystów"
+ },
+ "662351.0": {
+  "grid": 4868,
+  "name": "<b>Duch 5</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 1,
+  "time": 10000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 115,
+   "Cannoneer": 115
+  },
+  "type": 63,
+  "target": 2563,
+  "targetName": "Obóz kultystów"
+ },
+ "1400744.0": {
+  "grid": 5005,
+  "name": "<b>Duch 7</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 2,
+  "time": 23000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 100,
+   "Cannoneer": 130
+  },
+  "type": 63,
+  "target": 2222,
+  "targetName": "Wieża Wiedźmy"
+ }
+}

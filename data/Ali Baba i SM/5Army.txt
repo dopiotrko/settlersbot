@@ -1,0 +1,38 @@
+{
+ "2739016.0": {
+  "type": 79,
+  "army": {
+   "Swordsman": 80,
+   "MountedMarksman": 135
+  },
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "672613.0": {
+  "type": 52,
+  "army": {
+   "Swordsman": 130,
+   "MountedMarksman": 105
+  },
+  "name": "<b>Niezlomna 2</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

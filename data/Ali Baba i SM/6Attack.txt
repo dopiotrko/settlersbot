@@ -1,0 +1,74 @@
+{
+ "464473.0": {
+  "grid": 2606,
+  "order": 0,
+  "time": 1000,
+  "type": 57,
+  "target": 2061,
+  "targetName": "Campamento de bandidos d...",
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2739016.0": {
+  "grid": 2741,
+  "order": 1,
+  "time": 14000,
+  "type": 79,
+  "target": 974,
+  "targetName": "Líder de bandidos del de...",
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "606778.0": {
+  "grid": 2876,
+  "order": 2,
+  "time": 1000,
+  "type": 63,
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "672613.0": {
+  "grid": 2743,
+  "order": 3,
+  "time": 1000,
+  "type": 52,
+  "name": "<b>Niezlomna 2</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "668968.0": {
+  "grid": 1777,
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 55,
+   "MountedMarksman": 180
+  },
+  "type": 52,
+  "target": 2059,
+  "targetName": "Przywódca żeglarzy"
+ },
+ "1140787.0": {
+  "grid": 1779,
+  "name": "<b>Krzyk 1</b> <font size='-3'>(Generał Krzykliwa)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 44,
+   "MountedMarksman": 141
+  },
+  "type": 72,
+  "target": 1109,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ },
+ "1275443.0": {
+  "grid": 1642,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 7,
+  "time": 25000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Swordsman": 1,
+   "Knight": 33
+  },
+  "type": 50,
+  "target": 703,
+  "targetName": "Przywódca żeglarzy"
+ },
+ "327180.0": {
+  "grid": 1914,
+  "name": "<b>GM1</b> <font size='-3'>(Generał major)</font>",
+  "order": 8,
+  "time": 5000,
+  "skills": {
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Swordsman": 4,
+   "MountedSwordsman": 8,
+   "Knight": 34,
+   "ArmoredMarksman": 82,
+   "MountedMarksman": 157
+  },
+  "type": 13,
+  "target": 703,
+  "targetName": "Przywódca żeglarzy"
+ },
+ "2309747.0": {
+  "grid": 3814,
+  "name": "<b>Sylvana 6</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 23,
+  "time": 105000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 13,
+   "MountedMarksman": 182
+  },
+  "type": 57,
+  "target": 1182,
+  "targetName": "Obóz żeglarzy (trudny)"
+ }
+}

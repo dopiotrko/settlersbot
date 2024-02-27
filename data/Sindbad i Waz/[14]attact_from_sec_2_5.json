@@ -1,0 +1,48 @@
+{
+ "2713118.0": {
+  "grid": 4575,
+  "name": "<b>Mlodszy 4</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 5477,
+  "targetName": "Przywódca żeglarzy"
+ },
+ "327180.0": {
+  "grid": 4301,
+  "name": "<b>GM1</b> <font size='-3'>(Generał major)</font>",
+  "order": 7,
+  "time": 1000,
+  "skills": {
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 12,
+   "ArmoredMarksman": 203,
+   "MountedMarksman": 70
+  },
+  "type": 13,
+  "target": 5477,
+  "targetName": "Przywódca żeglarzy"
+ }
+}

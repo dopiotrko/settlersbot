@@ -1,0 +1,180 @@
+{
+ "1275443.0": {
+  "grid": 703,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "MountedSwordsman": 95
+  },
+  "type": 50,
+  "target": 1723,
+  "targetName": "Obóz żeglarzy (średni)"
+ },
+ "836460.0": {
+  "grid": 1109,
+  "name": "<b>Zakapturzony generał</b>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 10,
+   "MountedMarksman": 205
+  },
+  "type": 56,
+  "target": 1723,
+  "targetName": "Obóz żeglarzy (średni)"
+ },
+ "3382365.0": {
+  "grid": 1244,
+  "name": "<b>Sylvana 7</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 2,
+  "time": 20000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Swordsman": 24,
+   "Knight": 171
+  },
+  "type": 57,
+  "target": 2809,
+  "targetName": "Obóz żeglarzy (średni)"
+ },
+ "2309747.0": {
+  "grid": 1922,
+  "name": "<b>Sylvana 6</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 64,
+   "MountedMarksman": 131
+  },
+  "type": 57,
+  "target": 2606,
+  "targetName": "Przywódca żeglarzy"
+ },
+ "668968.0": {
+  "grid": 1988,
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedMarksman": 235
+  },
+  "type": 52,
+  "target": 438,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ },
+ "384781.0": {
+  "grid": 2059,
+  "name": "<b>Boris 1</b> <font size='-3'>(Generał Borys)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "16": 1
+  },
+  "army": {
+   "MountedSwordsman": 47,
+   "MountedMarksman": 148
+  },
+  "type": 43,
+  "target": 4508,
+  "targetName": "Przywódca żeglarzy"
+ },
+ "4739.0": {
+  "grid": 2667,
+  "name": "<b>Basic 2</b> <font size='-3'>(Generał)</font>",
+  "order": 7,
+  "time": 15000,
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  },
+  "army": {
+   "MountedSwordsman": 164,
+   "MountedMarksman": 36
+  },
+  "type": 0,
+  "target": 579,
+  "targetName": "Obóz żeglarzy (średni)"
+ },
+ "327180.0": {
+  "grid": 2802,
+  "name": "<b>GM1</b> <font size='-3'>(Generał major)</font>",
+  "order": 11,
+  "time": 37000,
+  "skills": {
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 20,
+   "ArmoredMarksman": 20,
+   "MountedMarksman": 245
+  },
+  "type": 13,
+  "target": 307,
+  "targetName": "Przywódca żeglarzy"
+ }
+}

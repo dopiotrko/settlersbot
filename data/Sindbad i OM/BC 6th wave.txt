@@ -1,0 +1,88 @@
+{
+ "2739016.0": {
+  "grid": 2850,
+  "order": 0,
+  "time": 1000,
+  "type": 79,
+  "target": 3253,
+  "targetName": "Sailor Camp (easy)",
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "448999.0": {
+  "grid": 4075,
+  "order": 1,
+  "time": 1000,
+  "type": 57,
+  "target": 1619,
+  "targetName": "Sailor Camp (medium)",
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "grid": 4210,
+  "order": 2,
+  "time": 1000,
+  "type": 57,
+  "target": 1423,
+  "targetName": "Sailor Leader",
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "1790223.0": {
+  "grid": 2987,
+  "order": 3,
+  "time": 30000,
+  "type": 56,
+  "target": 3176,
+  "targetName": "Sailor Leader",
+  "name": "<b>Zakapturzony generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "668968.0": {
+  "grid": 4550,
+  "order": 4,
+  "time": 1000,
+  "type": 52,
+  "target": 1209,
+  "targetName": "Sailor Camp (easy)",
+  "name": "<b>Niezłomna generał</b>",
+  "skills": {}
+ }
+}

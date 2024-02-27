@@ -1,0 +1,203 @@
+{
+ "606776.0": {
+  "grid": 6124,
+  "order": 0,
+  "time": 1000,
+  "type": 50,
+  "target": 7988,
+  "targetName": "Campamento de bandidos d...",
+  "name": "<b>Mlodszy 1</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  }
+ },
+ "566784.0": {
+  "grid": 5989,
+  "order": 1,
+  "time": 8000,
+  "type": 60,
+  "target": 7988,
+  "targetName": "Campamento de bandidos d...",
+  "name": "<b>Generał Drżąca Broda</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "448999.0": {
+  "grid": 5784,
+  "order": 2,
+  "time": 33000,
+  "type": 57,
+  "target": 7454,
+  "targetName": "Campamento de bandidos d...",
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "606778.0": {
+  "grid": 5919,
+  "order": 3,
+  "time": 30000,
+  "type": 63,
+  "target": 7660,
+  "targetName": "Líder de bandidos del de...",
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "68934.0": {
+  "grid": 6059,
+  "order": 4,
+  "time": 85000,
+  "type": 0,
+  "target": 7500,
+  "targetName": "Campamento de bandidos d...",
+  "name": "<b>Basic 3</b> <font size='-3'>(Generał)</font>",
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  }
+ },
+ "464473.0": {
+  "grid": 5310,
+  "order": 5,
+  "time": 3000,
+  "type": 57,
+  "target": 7367,
+  "targetName": "Líder de bandidos del de...",
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2739016.0": {
+  "grid": 2491,
+  "order": 6,
+  "time": 1000,
+  "type": 79,
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "668968.0": {
+  "grid": 5653,
+  "order": 7,
+  "time": 1000,
+  "type": 52,
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "1140787.0": {
+  "grid": 5518,
+  "order": 8,
+  "time": 1000,
+  "type": 72,
+  "name": "<b>Krzyk 1</b> <font size='-3'>(Generał Krzykliwa)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "163.0": {
+  "grid": 5516,
+  "order": 9,
+  "time": 1000,
+  "type": 0,
+  "name": "<b>Basic 1</b> <font size='-3'>(Generał)</font>",
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  }
+ },
+ "4739.0": {
+  "grid": 5379,
+  "order": 10,
+  "time": 1000,
+  "type": 0,
+  "name": "<b>Basic 2</b> <font size='-3'>(Generał)</font>",
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  }
+ },
+ "672613.0": {
+  "grid": 2354,
+  "order": 13,
+  "time": 1000,
+  "type": 52,
+  "name": "<b>Niezlomna 2</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

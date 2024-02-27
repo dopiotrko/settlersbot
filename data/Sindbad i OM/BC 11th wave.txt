@@ -1,0 +1,108 @@
+{
+ "2749638.0": {
+  "grid": 5471,
+  "order": 0,
+  "time": 1000,
+  "type": 30,
+  "target": 5677,
+  "targetName": "Sailor Leader",
+  "name": "<b>Czempion Anslem</b>",
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "13": 2,
+   "14": 1,
+   "19": 1
+  }
+ },
+ "448999.0": {
+  "grid": 5401,
+  "order": 1,
+  "time": 1000,
+  "type": 57,
+  "target": 5874,
+  "targetName": "Sailor Camp (hard)",
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "grid": 5336,
+  "order": 2,
+  "time": 30000,
+  "type": 57,
+  "target": 5601,
+  "targetName": "Sailor Camp (easy)",
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2739016.0": {
+  "grid": 5266,
+  "order": 3,
+  "time": 30000,
+  "type": 79,
+  "target": 5603,
+  "targetName": "Sailor Leader",
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "1140787.0": {
+  "grid": 5131,
+  "order": 4,
+  "time": 30000,
+  "type": 72,
+  "target": 5111,
+  "targetName": "Sailor Camp (hard)",
+  "name": "<b>Generał Krzykliwa</b>",
+  "skills": {}
+ },
+ "606778.0": {
+  "grid": 5201,
+  "order": 5,
+  "time": 20000,
+  "type": 63,
+  "target": 5113,
+  "targetName": "Sailor Leader",
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ }
+}

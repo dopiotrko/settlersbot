@@ -1,0 +1,59 @@
+{
+ "2739016.0": {
+  "grid": 2741,
+  "order": 0,
+  "time": 1000,
+  "type": 79,
+  "target": 420,
+  "targetName": "Campamento de bandidos d...",
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "672613.0": {
+  "grid": 2743,
+  "order": 1,
+  "time": 24000,
+  "type": 52,
+  "target": 2461,
+  "targetName": "Líder de bandidos del de...",
+  "name": "<b>Niezlomna 2</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "grid": 2606,
+  "order": 2,
+  "time": 4000,
+  "type": 57,
+  "target": 491,
+  "targetName": "Líder de bandidos del de...",
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

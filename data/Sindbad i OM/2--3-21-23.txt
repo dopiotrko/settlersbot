@@ -1,0 +1,117 @@
+{
+ "1790223.0": {
+  "type": 56,
+  "army": {
+   "MountedSwordsman": 45,
+   "MountedMarksman": 170
+  },
+  "name": "<b>Zakapturzony generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "632528.0": {
+  "type": 63,
+  "army": {
+   "MountedSwordsman": 50,
+   "ArmoredMarksman": 70,
+   "MountedMarksman": 110
+  },
+  "name": "<b>Duch 4</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "668968.0": {
+  "type": 52,
+  "army": {
+   "MountedSwordsman": 10,
+   "MountedMarksman": 225
+  },
+  "name": "<b>Niezłomna generał</b>",
+  "skills": {}
+ },
+ "673690.0": {
+  "type": 33,
+  "army": {},
+  "name": "<b>Generał Mikołajowa</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2739016.0": {
+  "type": 79,
+  "army": {
+   "Swordsman": 95,
+   "MountedMarksman": 105,
+   "Besieger": 15
+  },
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "448999.0": {
+  "type": 57,
+  "army": {
+   "MountedSwordsman": 10,
+   "Knight": 185
+  },
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "type": 57,
+  "army": {
+   "MountedMarksman": 195
+  },
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

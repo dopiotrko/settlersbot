@@ -1,0 +1,51 @@
+{
+ "zoneId": -10737786,
+ "zoneUser": "BuffAdventures_Storm_Recovery",
+ "data": [
+  {
+   "buffName": "BattleBuffHurt_BuffAd_StinkyPotion",
+   "buiGrid": 1935,
+   "buiName": "BuffAd_Ruin_03"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_StinkyPotion",
+   "buiGrid": 2150,
+   "buiName": "BuffAd_Ruin_01"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_StinkyPotion",
+   "buiGrid": 3321,
+   "buiName": "BuffAd_Ruin_01"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_StinkyPotion",
+   "buiGrid": 5614,
+   "buiName": "BuffAd_Ruin_04"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_StinkyPotion",
+   "buiGrid": 5884,
+   "buiName": "BuffAd_Ruin_02"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Decomposer",
+   "buiGrid": 2342,
+   "buiName": "BuffAd_Ruin_02"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Decomposer",
+   "buiGrid": 1880,
+   "buiName": "BuffAd_Ruin_03"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Decomposer",
+   "buiGrid": 2424,
+   "buiName": "BuffAd_Ruin_01"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Decomposer",
+   "buiGrid": 3988,
+   "buiName": "BuffAd_Ruin_02"
+  }
+ ]
+}

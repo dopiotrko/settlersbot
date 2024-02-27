@@ -1,0 +1,163 @@
+{
+ "1546365.0": {
+  "grid": 7765,
+  "name": "<b>Generał Mróz</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 64
+ },
+ "2949160.0": {
+  "grid": 7902,
+  "name": "<b>Generał Mróz</b>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "5": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 64
+ },
+ "606776.0": {
+  "grid": 7699,
+  "name": "<b>Mlodszy 1</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 50
+  },
+  "type": 50
+ },
+ "611496.0": {
+  "grid": 7905,
+  "name": "<b>Mlodszy 2</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50
+ },
+ "1275443.0": {
+  "grid": 7695,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 50
+ },
+ "2713118.0": {
+  "grid": 7565,
+  "name": "<b>Mlodszy 4</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 6,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 50
+ },
+ "2730297.0": {
+  "grid": 8104,
+  "name": "<b>Mlodszy 5</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 7,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 50
+ },
+ "555690.0": {
+  "grid": 8107,
+  "name": "<b>Starszy generał Gemini</b>",
+  "order": 8,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Cavalry": 160,
+   "Crossbowman": 135
+  },
+  "type": 47
+ }
+}

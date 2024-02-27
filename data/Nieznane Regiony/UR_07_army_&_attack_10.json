@@ -1,0 +1,15 @@
+{
+  "555690.0": {
+    "grid": 3688,
+    "order": 1,
+    "time": 1000,
+    "army": {
+      "MountedSwordsman": 60,
+      "MountedMarksman": 235
+    },
+    "type": 47,
+    "target": 3449,
+    "targetName": "\u0417\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u0430\u044f \u0441\u0442\u043e\u0440\u043e\u0436\u0435\u0432\u0430\u044f \u0431...",
+    "name": "<b>Starszy genera\u0142 Gemini</b>"
+  }
+}

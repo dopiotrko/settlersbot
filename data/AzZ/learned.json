@@ -1,0 +1,24 @@
+{
+ "2949160.0": {
+  "grid": 6758,
+  "name": "<b>Generał Mróz</b>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "5": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 64,
+  "target": 8199,
+  "targetName": "Obóz wikingów (przywódca)"
+ }
+}

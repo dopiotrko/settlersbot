@@ -1,0 +1,41 @@
+{
+ "766.0": {
+  "grid": 5254,
+  "name": "<b>G 01</b> <font size='-3'>(Generał)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "EliteSoldier": 111,
+   "Cavalry": 89
+  },
+  "type": 0
+ },
+ "1725.0": {
+  "grid": 6069,
+  "name": "<b>G 04</b> <font size='-3'>(Generał)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "EliteSoldier": 111,
+   "Cavalry": 89
+  },
+  "type": 0
+ },
+ "25545.0": {
+  "grid": 4637,
+  "name": "<b>Major</b> <font size='-3'>(Generał major)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "11": 3
+  },
+  "army": {
+   "Militia": 45,
+   "Cavalry": 114,
+   "Crossbowman": 111
+  },
+  "type": 13
+ }
+}

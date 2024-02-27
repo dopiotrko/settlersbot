@@ -1,0 +1,51 @@
+{
+ "zoneId": -10737786,
+ "zoneUser": "BuffAdventures_Storm_Recovery",
+ "data": [
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 2145,
+   "buiName": "BuffAd_EmptyFarmfield"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 1942,
+   "buiName": "BuffAd_EmptyFarmfield"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 2079,
+   "buiName": "BuffAd_EmptyFarmfield"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 2223,
+   "buiName": "BuffAd_EmptyFarmfield"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 2358,
+   "buiName": "BuffAd_EmptyFarmfield"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 2427,
+   "buiName": "BuffAd_EmptyFarmfield"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 2562,
+   "buiName": "BuffAd_EmptyFarmfield"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 4259,
+   "buiName": "BuffAd_EmptyFarmfield"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Seeds",
+   "buiGrid": 5882,
+   "buiName": "BuffAd_EmptyFarmfield"
+  }
+ ]
+}

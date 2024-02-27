@@ -1,0 +1,26 @@
+{
+ "zoneId": -10738060,
+ "zoneUser": "BuffAdventures_Storm_Recovery",
+ "data": [
+  {
+   "buffName": "BattleBuffHurt_BuffAd_SmallDynamite",
+   "buiGrid": 2070,
+   "buiName": "buffad_boulder_01"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_SmallDynamite",
+   "buiGrid": 2152,
+   "buiName": "buffad_boulder_01"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_SmallDynamite",
+   "buiGrid": 4394,
+   "buiName": "buffad_boulder_01"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_SmallDynamite",
+   "buiGrid": 5680,
+   "buiName": "buffad_boulder_01"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "1069408.0": {
+  "grid": 5691,
+  "name": "<b>Sylvana 4</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 31,
+   "MountedMarksman": 164
+  },
+  "type": 57,
+  "target": 7049,
+  "targetName": "Obóz żeglarzy (średni)"
+ },
+ "606776.0": {
+  "grid": 5552,
+  "name": "<b>Mlodszy 1</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 7180,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ },
+ "819068.0": {
+  "grid": 5417,
+  "name": "<b>Sylvana 3</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 30,
+   "MountedMarksman": 165
+  },
+  "type": 57,
+  "target": 7180,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ },
+ "1751997.0": {
+  "grid": 5554,
+  "name": "<b>Sylvana 5</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 3,
+  "time": 33000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedMarksman": 195
+  },
+  "type": 57,
+  "target": 7729,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ }
+}

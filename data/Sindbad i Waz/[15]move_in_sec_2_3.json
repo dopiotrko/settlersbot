@@ -1,0 +1,183 @@
+{
+ "668968.0": {
+  "grid": 2759,
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 20,
+   "MountedMarksman": 215
+  },
+  "type": 52
+ },
+ "384781.0": {
+  "grid": 2963,
+  "name": "<b>Boris 1</b> <font size='-3'>(Generał Borys)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "16": 1
+  },
+  "army": {
+   "MountedSwordsman": 31,
+   "MountedMarksman": 164
+  },
+  "type": 43
+ },
+ "1069408.0": {
+  "grid": 3235,
+  "name": "<b>Sylvana 4</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 47,
+   "MountedMarksman": 148
+  },
+  "type": 57
+ },
+ "1964910.0": {
+  "grid": 3372,
+  "name": "<b>Czempion Vargus</b>",
+  "order": 6,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 45,
+   "MountedMarksman": 150
+  },
+  "type": 29
+ },
+ "3382365.0": {
+  "grid": 2890,
+  "name": "<b>Sylvana 7</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 7,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Knight": 195
+  },
+  "type": 57
+ },
+ "555690.0": {
+  "grid": 3711,
+  "name": "<b>Starszy generał Gemini</b>",
+  "order": 8,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 26,
+   "ArmoredMarksman": 269
+  },
+  "type": 47
+ },
+ "1751997.0": {
+  "grid": 4798,
+  "name": "<b>Sylvana 5</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 9,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 10,
+   "MountedMarksman": 185
+  },
+  "type": 57
+ },
+ "4739.0": {
+  "grid": 5477,
+  "name": "<b>Basic 2</b> <font size='-3'>(Generał)</font>",
+  "order": 10,
+  "time": 1000,
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  },
+  "army": {
+   "MountedSwordsman": 150
+  },
+  "type": 0
+ },
+ "2309747.0": {
+  "grid": 5610,
+  "name": "<b>Sylvana 6</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 25,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Knight": 195
+  },
+  "type": 57
+ }
+}

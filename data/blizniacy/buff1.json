@@ -1,0 +1,36 @@
+{
+ "zoneId": -10803290,
+ "zoneUser": "BuffAdventures_twins_easy",
+ "data": [
+  {
+   "buffName": "ChangeSkin_BuffAd_Bridge",
+   "buiGrid": 2956,
+   "buiName": "buffad_swamp"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Bridge",
+   "buiGrid": 3768,
+   "buiName": "buffad_swamp"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Bridge",
+   "buiGrid": 4318,
+   "buiName": "buffad_swamp"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Broadsheet",
+   "buiGrid": 4396,
+   "buiName": "buffad_twin_residence"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Broadsheet",
+   "buiGrid": 3981,
+   "buiName": "buffad_twin_residence"
+  },
+  {
+   "buffName": "ChangeSkin_BuffAd_Broadsheet",
+   "buiGrid": 4863,
+   "buiName": "buffad_twin_residence"
+  }
+ ]
+}

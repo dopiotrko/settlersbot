@@ -1,0 +1,20 @@
+{
+ "1790223.0": {
+  "type": 56,
+  "army": {
+   "MountedSwordsman": 35,
+   "MountedMarksman": 180
+  },
+  "name": "<b>Zakapturzony generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

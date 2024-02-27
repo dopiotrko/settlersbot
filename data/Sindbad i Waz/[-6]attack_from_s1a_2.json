@@ -1,0 +1,25 @@
+{
+ "555690.0": {
+  "grid": 6705,
+  "name": "<b>Starszy generał Gemini</b>",
+  "order": 11,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 8,
+   "ArmoredMarksman": 287
+  },
+  "type": 47,
+  "target": 7059,
+  "targetName": "Przywódca żeglarzy"
+ }
+}

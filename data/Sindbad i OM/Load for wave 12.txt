@@ -1,0 +1,70 @@
+{
+ "500146.0": {
+  "type": 12,
+  "army": {
+   "Knight": 400,
+   "ArmoredMarksman": 300,
+   "MountedMarksman": 100,
+   "Besieger": 200
+  },
+  "name": "<b>Q 2</b> <font size='-3'>(Główny kwatermistrz)</font>",
+  "skills": {
+   "3": 3,
+   "4": 3,
+   "5": 1
+  }
+ },
+ "673906.0": {
+  "type": 33,
+  "army": {
+   "MountedMarksman": 215
+  },
+  "name": "<b>Generał Mikołajowa</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "673690.0": {
+  "type": 33,
+  "army": {
+   "MountedSwordsman": 55,
+   "MountedMarksman": 160
+  },
+  "name": "<b>Generał Mikołajowa</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2739016.0": {
+  "type": 79,
+  "army": {
+   "Swordsman": 45,
+   "MountedMarksman": 170
+  },
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "500146.0": {
+  "grid": 13132,
+  "name": "<b>Q 2</b> <font size='-3'>(Główny kwatermistrz)</font>",
+  "order": 104,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "4": 3,
+   "5": 1
+  },
+  "army": {},
+  "type": 12
+ }
+}456066

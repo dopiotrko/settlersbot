@@ -1,0 +1,28 @@
+{
+  "2713118.0": {
+    "grid": 3452,
+    "order": 0,
+    "time": 1000,
+    "army": {
+      "Recruit": 1
+    },
+    "type": 50,
+    "target": 2383,
+    "targetName": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0443\u0445\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0437\u0432\u0435\u0440\u0435\u0439 ...",
+    "name": "<b>Mlodszy 4</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "629130.0": {
+    "grid": 3686,
+    "order": 1,
+    "time": 15000,
+    "army": {
+      "MountedSwordsman": 85,
+      "Knight": 70,
+      "Besieger": 75
+    },
+    "type": 63,
+    "target": 2383,
+    "targetName": "\u041f\u0435\u0449\u0435\u0440\u0430 \u0443\u0445\u043e\u0436\u0435\u043d\u043d\u044b\u0445 \u0437\u0432\u0435\u0440\u0435\u0439 ...",
+    "name": "<b>Duch 2</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  }
+}

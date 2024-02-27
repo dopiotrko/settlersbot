@@ -1,0 +1,132 @@
+{
+  "819068.0": {
+    "grid": 7514,
+    "order": 0,
+    "time": 1000,
+    "army": {
+      "MountedMarksman": 195
+    },
+    "type": 57,
+    "target": 1985,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Sylvana 3</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "673906.0": {
+    "grid": 7180,
+    "order": 1,
+    "time": 1000,
+    "army": {
+      "MountedSwordsman": 35,
+      "MountedMarksman": 180
+    },
+    "type": 33,
+    "target": 6168,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Genera\u0142 Miko\u0142ajowa</b>"
+  },
+  "3687221.0": {
+    "grid": 6646,
+    "order": 2,
+    "time": 1000,
+    "army": {
+      "MountedMarksman": 1
+    },
+    "type": 31,
+    "target": 1747,
+    "targetName": "\u0412\u043e\u0436\u0430\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438...",
+    "name": "<b>Czempion Nusala</b>"
+  },
+  "555690.0": {
+    "grid": 6989,
+    "order": 3,
+    "time": 1000,
+    "army": {
+      "MountedSwordsman": 40,
+      "Knight": 140,
+      "Besieger": 115
+    },
+    "type": 47,
+    "target": 1747,
+    "targetName": "\u0412\u043e\u0436\u0430\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438...",
+    "name": "<b>Starszy genera\u0142 Gemini</b>"
+  },
+  "327180.0": {
+    "grid": 7384,
+    "order": 4,
+    "time": 20000,
+    "army": {
+      "MountedSwordsman": 15,
+      "ArmoredMarksman": 120,
+      "MountedMarksman": 150
+    },
+    "type": 13,
+    "target": 6241,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>GM1</b> <font size='-3'>(Genera\u0142 major)</font>"
+  },
+  "611496.0": {
+    "grid": 7583,
+    "order": 5,
+    "time": 20000,
+    "army": {
+      "Recruit": 125
+    },
+    "type": 50,
+    "target": 1716,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Mlodszy 2</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "448999.0": {
+    "grid": 7653,
+    "order": 6,
+    "time": 1000,
+    "army": {
+      "MountedMarksman": 195
+    },
+    "type": 57,
+    "target": 1716,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Sylvana 1</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  },
+  "3010819.0": {
+    "grid": 7386,
+    "order": 7,
+    "time": 30000,
+    "army": {
+      "MountedSwordsman": 35,
+      "ArmoredMarksman": 75,
+      "MountedMarksman": 105
+    },
+    "type": 33,
+    "target": 5427,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Genera\u0142 Miko\u0142ajowa</b>"
+  },
+  "1964910.0": {
+    "grid": 7788,
+    "order": 8,
+    "time": 15000,
+    "army": {
+      "MountedSwordsman": 35,
+      "MountedMarksman": 160
+    },
+    "type": 29,
+    "target": 1444,
+    "targetName": "\u0412\u043e\u0436\u0430\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438...",
+    "name": "<b>Czempion Vargus</b>"
+  },
+  "606778.0": {
+    "grid": 7319,
+    "order": 9,
+    "time": 20000,
+    "army": {
+      "MountedSwordsman": 45,
+      "ArmoredMarksman": 80,
+      "MountedMarksman": 105
+    },
+    "type": 63,
+    "target": 5225,
+    "targetName": "\u0412\u043e\u0436\u0430\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438...",
+    "name": "<b>Duch 1</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  }
+}

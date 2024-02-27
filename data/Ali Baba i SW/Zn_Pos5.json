@@ -1,0 +1,26 @@
+{
+  "611496.0": {
+    "grid": 990,
+    "order": 8,
+    "time": 1000,
+    "army": {},
+    "type": 50,
+    "name": "<b>Mlodszy 2</b> <font size='-3'>(M\u0142odszy genera\u0142 Gemini)</font>"
+  },
+  "1964910.0": {
+    "grid": 1265,
+    "order": 11,
+    "time": 1000,
+    "army": {},
+    "type": 29,
+    "name": "<b>Czempion Vargus</b>"
+  },
+  "819068.0": {
+    "grid": 1400,
+    "order": 12,
+    "time": 1000,
+    "army": {},
+    "type": 57,
+    "name": "<b>Sylvana 3</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  }
+}

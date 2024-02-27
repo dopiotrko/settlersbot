@@ -1,0 +1,70 @@
+{
+  "672613.0": {
+    "grid": 1367,
+    "order": 0,
+    "time": 1000,
+    "army": {
+      "MountedSwordsman": 25,
+      "MountedMarksman": 210
+    },
+    "type": 52,
+    "target": 2390,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Niezlomna 2</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "1964910.0": {
+    "grid": 1297,
+    "order": 1,
+    "time": 30000,
+    "army": {
+      "MountedSwordsman": 40,
+      "ArmoredMarksman": 140,
+      "MountedMarksman": 15
+    },
+    "type": 29,
+    "target": 2727,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Czempion Vargus</b>"
+  },
+  "629130.0": {
+    "grid": 1093,
+    "order": 2,
+    "time": 30000,
+    "army": {
+      "MountedSwordsman": 45,
+      "ArmoredMarksman": 160,
+      "MountedMarksman": 25
+    },
+    "type": 63,
+    "target": 3412,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Duch 2</b> <font size='-3'>(Genera\u0142 Duch)</font>"
+  },
+  "1517254.0": {
+    "grid": 1295,
+    "order": 3,
+    "time": 30000,
+    "army": {
+      "MountedSwordsman": 5,
+      "Knight": 230
+    },
+    "type": 52,
+    "target": 3819,
+    "targetName": "\u041b\u0430\u0433\u0435\u0440\u044c \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d...",
+    "name": "<b>Niezlomna 3</b> <font size='-3'>(Niez\u0142omna genera\u0142)</font>"
+  },
+  "1069408.0": {
+    "grid": 1023,
+    "order": 4,
+    "time": 30000,
+    "army": {
+      "MountedSwordsman": 40,
+      "ArmoredMarksman": 80,
+      "MountedMarksman": 75
+    },
+    "type": 43,
+    "target": 3549,
+    "targetName": "\u0412\u043e\u0436\u0430\u043a \u043f\u0443\u0441\u0442\u044b\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0431\u043e\u0439\u043d\u0438...",
+    "name": "<b>Sylvana 4</b> <font size='-3'>(Genera\u0142 Sylvana)</font>"
+  }
+}

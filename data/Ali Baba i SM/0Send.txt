@@ -1,0 +1,197 @@
+{
+ "456066.0": {
+  "type": 12,
+  "army": {
+   "Swordsman": 500,
+   "MountedSwordsman": 200,
+   "Knight": 165,
+   "MountedMarksman": 635,
+   "ArmoredMarksman": 500
+  },
+  "name": "<b>Q 1</b> <font size='-3'>(Główny kwatermistrz)</font>",
+  "skills": {
+   "0": 3,
+   "1": 3,
+   "2": 1
+  }
+ },
+ "1517255.0": {
+  "type": 27,
+  "army": {
+   "MountedSwordsman": 500,
+   "MountedMarksman": 1000,
+   "Besieger": 500
+  },
+  "name": "<b>Kwatermistrz Mikołaj</b>",
+  "skills": {
+   "0": 3,
+   "1": 3,
+   "2": 1
+  }
+ },
+ "566784.0": {
+  "type": 60,
+  "army": {},
+  "name": "<b>Generał Drżąca Broda</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "606778.0": {
+  "type": 63,
+  "army": {},
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "1140787.0": {
+  "type": 72,
+  "army": {},
+  "name": "<b>Krzyk 1</b> <font size='-3'>(Generał Krzykliwa)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "163.0": {
+  "type": 0,
+  "army": {},
+  "name": "<b>Basic 1</b> <font size='-3'>(Generał)</font>",
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  }
+ },
+ "2739016.0": {
+  "type": 79,
+  "army": {},
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "4739.0": {
+  "type": 0,
+  "army": {},
+  "name": "<b>Basic 2</b> <font size='-3'>(Generał)</font>",
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  }
+ },
+ "68934.0": {
+  "type": 0,
+  "army": {},
+  "name": "<b>Basic 3</b> <font size='-3'>(Generał)</font>",
+  "skills": {
+   "6": 3,
+   "11": 3,
+   "14": 2
+  }
+ },
+ "606776.0": {
+  "type": 50,
+  "army": {},
+  "name": "<b>Mlodszy 1</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  }
+ },
+ "668968.0": {
+  "type": 52,
+  "army": {},
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "672613.0": {
+  "type": 52,
+  "army": {},
+  "name": "<b>Niezlomna 2</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "448999.0": {
+  "type": 57,
+  "army": {},
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "type": 57,
+  "army": {},
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

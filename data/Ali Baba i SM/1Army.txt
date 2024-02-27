@@ -1,0 +1,74 @@
+{
+ "566784.0": {
+  "type": 60,
+  "army": {
+   "MountedMarksman": 175
+  },
+  "name": "<b>Generał Drżąca Broda</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "668968.0": {
+  "type": 52,
+  "army": {
+   "MountedSwordsman": 35,
+   "MountedMarksman": 200
+  },
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2739016.0": {
+  "type": 79,
+  "army": {
+   "Swordsman": 90,
+   "MountedMarksman": 110,
+   "Besieger": 15
+  },
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "448999.0": {
+  "type": 57,
+  "army": {
+   "MountedSwordsman": 75,
+   "Knight": 120
+  },
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

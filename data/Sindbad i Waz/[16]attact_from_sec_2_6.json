@@ -1,0 +1,116 @@
+{
+ "668968.0": {
+  "grid": 2759,
+  "name": "<b>Niezlomna 1</b> <font size='-3'>(Niezłomna generał)</font>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 20,
+   "MountedMarksman": 215
+  },
+  "type": 52,
+  "target": 857,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ },
+ "384781.0": {
+  "grid": 2963,
+  "name": "<b>Boris 1</b> <font size='-3'>(Generał Borys)</font>",
+  "order": 4,
+  "time": 3000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "16": 1
+  },
+  "army": {
+   "MountedSwordsman": 31,
+   "MountedMarksman": 164
+  },
+  "type": 43,
+  "target": 1272,
+  "targetName": "Obóz żeglarzy (łatwy)"
+ },
+ "1069408.0": {
+  "grid": 3235,
+  "name": "<b>Sylvana 4</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 47,
+   "MountedMarksman": 148
+  },
+  "type": 57,
+  "target": 584,
+  "targetName": "Przywódca żeglarzy"
+ },
+ "1964910.0": {
+  "grid": 3372,
+  "name": "<b>Czempion Vargus</b>",
+  "order": 6,
+  "time": 10000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "MountedSwordsman": 45,
+   "MountedMarksman": 150
+  },
+  "type": 29,
+  "target": 1479,
+  "targetName": "Obóz żeglarzy (średni)"
+ },
+ "3382365.0": {
+  "grid": 2890,
+  "name": "<b>Sylvana 7</b> <font size='-3'>(Generał Sylvana)</font>",
+  "order": 7,
+  "time": 30000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Knight": 195
+  },
+  "type": 57,
+  "target": 1005,
+  "targetName": "Obóz żeglarzy (trudny)"
+ }
+}

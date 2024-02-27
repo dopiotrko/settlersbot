@@ -1,0 +1,286 @@
+{
+ "2749638.0": {
+  "type": 30,
+  "army": {
+   "MountedSwordsman": 55,
+   "Besieger": 110
+  },
+  "name": "<b>Czempion Anslem</b>",
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "13": 2,
+   "14": 1,
+   "19": 1
+  }
+ },
+ "1790223.0": {
+  "type": 56,
+  "army": {
+   "Swordsman": 1
+  },
+  "name": "<b>Zakapturzony generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "606778.0": {
+  "type": 63,
+  "army": {
+   "MountedSwordsman": 45,
+   "MountedMarksman": 85,
+   "Besieger": 100
+  },
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "629130.0": {
+  "type": 63,
+  "army": {
+   "MountedSwordsman": 30,
+   "ArmoredMarksman": 10,
+   "MountedMarksman": 190
+  },
+  "name": "<b>Duch 2</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "632286.0": {
+  "type": 63,
+  "army": {
+   "Swordsman": 1
+  },
+  "name": "<b>Duch 3</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "632528.0": {
+  "type": 63,
+  "army": {
+   "Swordsman": 1
+  },
+  "name": "<b>Duch 4</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "662351.0": {
+  "type": 63,
+  "army": {
+   "Swordsman": 1
+  },
+  "name": "<b>Duch 5</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "672613.0": {
+  "type": 52,
+  "army": {
+   "MountedSwordsman": 11,
+   "MountedMarksman": 210
+  },
+  "name": "<b>Niezłomna generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "668968.0": {
+  "type": 52,
+  "army": {
+   "MountedSwordsman": 10,
+   "MountedMarksman": 225
+  },
+  "name": "<b>Niezłomna generał</b>",
+  "skills": {}
+ },
+ "1140787.0": {
+  "type": 72,
+  "army": {
+   "MountedSwordsman": 40,
+   "MountedMarksman": 145
+  },
+  "name": "<b>Generał Krzykliwa</b>",
+  "skills": {}
+ },
+ "673906.0": {
+  "type": 33,
+  "army": {
+   "MountedMarksman": 215
+  },
+  "name": "<b>Generał Mikołajowa</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "673690.0": {
+  "type": 33,
+  "army": {
+   "MountedSwordsman": 55,
+   "MountedMarksman": 160
+  },
+  "name": "<b>Generał Mikołajowa</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "3687221.0": {
+  "type": 31,
+  "army": {
+   "Swordsman": 1
+  },
+  "name": "<b>Czempion Nusala</b>",
+  "skills": {
+   "0": 3,
+   "2": 2,
+   "3": 3,
+   "6": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "555690.0": {
+  "type": 47,
+  "army": {
+   "Swordsman": 1
+  },
+  "name": "<b>Starszy generał Gemini</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2739016.0": {
+  "type": 79,
+  "army": {
+   "Swordsman": 85,
+   "ArmoredMarksman": 35,
+   "MountedMarksman": 95
+  },
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "448999.0": {
+  "type": 57,
+  "army": {
+   "MountedSwordsman": 40,
+   "MountedMarksman": 155
+  },
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "type": 57,
+  "army": {
+   "MountedSwordsman": 195
+  },
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

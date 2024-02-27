@@ -1,0 +1,112 @@
+{
+ "2949160.0": {
+  "grid": 7902,
+  "name": "<b>Generał Mróz</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "5": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 64,
+  "target": 6641,
+  "targetName": "Obóz bandytów (łatwy)"
+ },
+ "1546365.0": {
+  "grid": 7765,
+  "name": "<b>Generał Mróz</b>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 64,
+  "target": 6641,
+  "targetName": "Obóz bandytów (łatwy)"
+ },
+ "1275443.0": {
+  "grid": 7695,
+  "name": "<b>Mlodszy 3</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 50,
+  "target": 6100,
+  "targetName": "Dowódca wysuniętej straży"
+ },
+ "2713118.0": {
+  "grid": 7565,
+  "name": "<b>Mlodszy 4</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 50,
+  "target": 6100,
+  "targetName": "Dowódca wysuniętej straży"
+ },
+ "2730297.0": {
+  "grid": 8104,
+  "name": "<b>Mlodszy 5</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Soldier": 1
+  },
+  "type": 50,
+  "target": 6100,
+  "targetName": "Dowódca wysuniętej straży"
+ }
+}

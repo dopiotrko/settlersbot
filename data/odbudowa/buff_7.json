@@ -1,0 +1,41 @@
+{
+ "zoneId": -10737786,
+ "zoneUser": "BuffAdventures_Storm_Recovery",
+ "data": [
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Shovel1",
+   "buiGrid": 2342,
+   "buiName": "BuffAd_Ruin_02"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Shovel1",
+   "buiGrid": 1935,
+   "buiName": "BuffAd_Ruin_03"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Shovel1",
+   "buiGrid": 1880,
+   "buiName": "BuffAd_Ruin_03"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Shovel1",
+   "buiGrid": 2424,
+   "buiName": "BuffAd_Ruin_01"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Shovel1",
+   "buiGrid": 3387,
+   "buiName": "BuffAd_Ruin_01"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Shovel1",
+   "buiGrid": 3988,
+   "buiName": "BuffAd_Ruin_02"
+  },
+  {
+   "buffName": "BattleBuffHurt_BuffAd_Shovel1",
+   "buiGrid": 5884,
+   "buiName": "BuffAd_Ruin_02"
+  }
+ ]
+}

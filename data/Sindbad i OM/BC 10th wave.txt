@@ -1,0 +1,117 @@
+{
+ "2739016.0": {
+  "grid": 3176,
+  "order": 0,
+  "time": 1000,
+  "type": 79,
+  "target": 2220,
+  "targetName": "Sailor Camp (easy)",
+  "name": "<b>Stanowczy generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "2749638.0": {
+  "grid": 1957,
+  "order": 1,
+  "time": 1000,
+  "type": 30,
+  "target": 2414,
+  "targetName": "Besieged building",
+  "name": "<b>Czempion Anslem</b>",
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "13": 2,
+   "14": 1,
+   "19": 1
+  }
+ },
+ "448999.0": {
+  "grid": 3041,
+  "order": 2,
+  "time": 72000,
+  "type": 57,
+  "target": 1672,
+  "targetName": "Sailor Camp (hard)",
+  "name": "<b>Sylvana 1</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "606778.0": {
+  "grid": 2634,
+  "order": 3,
+  "time": 1000,
+  "type": 63,
+  "target": 1666,
+  "targetName": "Besieged palace",
+  "name": "<b>Duch 1</b> <font size='-3'>(Generał Duch)</font>",
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  }
+ },
+ "672613.0": {
+  "grid": 1820,
+  "order": 4,
+  "time": 1000,
+  "type": 52,
+  "target": 920,
+  "targetName": "Sailor Camp (easy)",
+  "name": "<b>Niezłomna generał</b>",
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 2,
+   "12": 3,
+   "19": 1
+  }
+ },
+ "464473.0": {
+  "grid": 2771,
+  "order": 0,
+  "time": 65000,
+  "type": 57,
+  "target": 990,
+  "targetName": "Sailor Leader",
+  "name": "<b>Sylvana 2</b> <font size='-3'>(Generał Sylvana)</font>",
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  }
+ }
+}

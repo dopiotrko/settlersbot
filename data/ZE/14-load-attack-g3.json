@@ -1,0 +1,181 @@
+{
+ "2949161.0": {
+  "grid": 3922,
+  "name": "<b>Generał Mróz</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 2,
+   "8": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 2
+  },
+  "type": 64,
+  "target": 3646,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "2713118.0": {
+  "grid": 4059,
+  "name": "<b>Mlodszy 4</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 3646,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "3331285.0": {
+  "grid": 3595,
+  "name": "<b>Generał samotnik</b>",
+  "order": 2,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 3,
+   "6": 2,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "19": 1
+  },
+  "army": {
+   "Cavalry": 245
+  },
+  "type": 67,
+  "target": 5630,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "1546293.0": {
+  "grid": 3248,
+  "name": "<b>Generał Mróz</b>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "3": 2,
+   "6": 3,
+   "8": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 64,
+  "target": 1487,
+  "targetName": "Obóz bandytów (średni)"
+ },
+ "2730297.0": {
+  "grid": 3383,
+  "name": "<b>Mlodszy 5</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 2,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 943,
+  "targetName": "Przywódca bandytów"
+ },
+ "1434645.0": {
+  "grid": 3856,
+  "name": "<b>Duch 8</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 70,
+   "Cavalry": 70,
+   "Cannoneer": 90
+  },
+  "type": 63,
+  "target": 3779,
+  "targetName": "Przywódca bandytów"
+ },
+ "665831.0": {
+  "grid": 3730,
+  "name": "<b>Duch 6</b> <font size='-3'>(Generał Duch)</font>",
+  "order": 6,
+  "time": 26000,
+  "skills": {
+   "3": 3,
+   "6": 3,
+   "8": 2,
+   "9": 3,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "19": 1
+  },
+  "army": {
+   "Recruit": 120,
+   "Cannoneer": 110
+  },
+  "type": 63,
+  "target": 6108,
+  "targetName": "Obóz bandytów (trudny)"
+ },
+ "611496.0": {
+  "grid": 3390,
+  "name": "<b>Mlodszy 2</b> <font size='-3'>(Młodszy generał Gemini)</font>",
+  "order": 7,
+  "time": 36000,
+  "skills": {
+   "2": 3,
+   "6": 3,
+   "8": 3,
+   "9": 2,
+   "11": 3,
+   "12": 3,
+   "14": 3,
+   "16": 1
+  },
+  "army": {
+   "Recruit": 1
+  },
+  "type": 50,
+  "target": 6314,
+  "targetName": "Przywódca bandytów"
+ }
+}
