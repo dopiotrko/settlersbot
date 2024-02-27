@@ -1315,10 +1315,11 @@ def run_azz(adv, delay=5, gap=7*60, start=0, stop=999):
 
 
 def buff(delay):
-    TN.buff_by_client(delay, "buffArea")
-    TN.buff_by_client(3, "buffPremium")
+    # TN.buff_by_client(delay, "buffArea")
+    TN.buff_by_client(delay, "buffPremium")
     TN.buff_by_client(3, "buffGrill")
-    TN.buff_by_client(3, "buffFish")
+    TN.buff_by_client(30, "buffFish")
+    my_pygui.hotkey('ctrl', 'm')
 
 
 # Adventure('bon').make_bonus(6, Mode.play)
@@ -1328,46 +1329,57 @@ def buff(delay):
 # Adventure('bon').make_bonus(105*60, Mode.play)
 # Adventure('bon2').make_bonus(60*35, Mode.play)
 
-# adventure = 'DMK'
+adventure = 'DMK'
 adventure = 'Ali Baba Drwal'
 # adventure = 'Ali Baba i Drugi'
 # adventure = 'Ali Baba i Pierwszy'
-# adventure = 'Ali Baba i SM'
-# adventure = 'aaa'
-# adventure = 'proch'
+adventure = 'Ali Baba i SM'
+# adventure = 'horseback'
+# adventure = 'AzZ'
 # adventure = 'piesni i klatwy'
 # adventure = 'banici'
 # adventure = 'smocza czat'
-# adventure = 'proch'
+# adventure = 'Mroczni'
 # adventure = 'arktyczna'
 # adventure = 'cenne dane'
 # adventure = 'wyspa tikki'
 # adventure = 'uspiony wulkan'
 # adventure = 'wild_mary'
+# adventure = 'traitors'
 TN = Adventure(adventure)
-# TN.start_adventure('lg_9')
+# TN.start_adventure('lg_9')"
 # TN.send_explorer_by_client(delay=3)
 # run(TN, 'banici', 3, 13*60)
 
 # Adventure('Home').make_adventure(delay=6*60)
 # TN.go_to_adventure(12*60)
-# TN.send_to_adventure(5, first=3, last=33)
-# run(TN, 'banici', 2, 18*60, stop=447)
+# TN.send_to_adventure(5, first=0, last=33)
+# run(TN, 'wir', 2, 18*60, stop=447)
 # TN.go_to_adventure(6)
-# TN.make_adventure(delay=6, start=0, stop=447, mode=Mode.play)
-# TN.end_adventure(10, Mode.play)
-# run(TN, 'arktyczna', 1, 10*60)
-# TN.make_adventure(delay=1, start=0, stop=117, mode=Mode.play)
-run(TN, 'drwal', delay=6, gap=0, start=0)
-TN.send_explorer_by_client(30)
-TN.buff_by_client(3)
-my.wait(17 * 60)
+# TN.make_adventure(delay=6, start=64, stop=666, mode=Mode.play)
+# TN.end_adventure(10, Mode.teach_co)
+# run(TN, 'wyspa w', 1, 10*60)
+# TN.confirm_task(2)
+# TN.send_explorer_by_client(30)
+# buff(3)
+# TN.c_reset()
+# TN.focus()
+# my_pygui.hotkey('ctrl', 'pageup')
+# TN.c_action('load')
+# my.wait(10 * 60)
+# TN.confirm_task(3, ending=True)
+# run_arctic()
+# run(TN, 'drugi', delay=2, gap=0, start=40, stop=177)
+# TN.make_adventure(delay=1, start=49, stop=6555)
+# run(TN, 'skarb m', delay=2,  gap=0, start=37, stop=480)
 while True:
+    # run_azz(TN, gap=8*60)
     TN.send_explorer_by_client(3)
-    TN.buff_by_client(3)
-    run(TN, 'drwal', 10, 16 * 60, stop=118)
-    TN.send_explorer_by_client(30)
-    my.wait(16 * 60)
-    # adventure = 'Ali Baba Drwal'
-    # TN = Adventure(adventure)
-    # Adventure('WW_').make_adventure(delay=15*60)
+    buff(3)
+    TN.send_explorer_by_client(3)
+    my.wait(10 * 60)
+    # run(TN, 'drugi', delay=1500,  gap=20*60, start=0, stop=177)
+# run_arctic()0--0--
+# adventure = 'Ali Baba Drwal'
+# TN = Adventure(adventure)
+# Adventure('WW_').make_adventure(delay=15*60)
