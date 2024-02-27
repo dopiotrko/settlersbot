@@ -51,6 +51,15 @@ def restart_compiled_client_if_gone():
     log.info('restart_client')
     close_not_responding_windows()
     client_window = pgw.getWindowsWithTitle('Nowa Ziemia')
+    if len(client_window) > 1:
+        for client in client_window:
+            client.close()
+            wait(10, 'closed, next iteration in')
+    client_window = pgw.getWindowsWithTitle('client.exe')
+    if len(client_window) == 1:
+        client_window[0].close()
+        wait(10, 'closed, next iteration in')
+    client_window = pgw.getWindowsWithTitle('Nowa Ziemia')
     if len(client_window) == 1:
         log.info('client window exist')
         client_window[0].maximize()
@@ -83,6 +92,7 @@ def restart_client_if_gone():
         log.info('client window exist')
         # client_window = client_window[0]
     else:
+        close_open_client_windows(client_window)
         settlers_main_page = pgw.getWindowsWithTitle('The Settlers Online')
         if len(settlers_main_page) == 1:
             log.info('main page exist')
@@ -148,6 +158,21 @@ def close_not_responding_windows():
         return False
 
 
+def close_open_client_windows(client_windows):
+    if len(client_windows) > 0:
+        log.info('excess client_windows exist - closing all')
+        for n_r_win in client_windows:
+            n_r_win.close()
+            loc = my_pygui.locateOnScreen('resource/close_not_responding.png')
+            if loc:
+                my_pygui.click(loc.get())
+                log.info('not_responding_window closed')
+        return True
+    else:
+        log.info('all window responding')
+        return False
+
+
 def send_explorer_while_error(func):
     def wrapper_send_explorer_while_error(*args, **kwargs):
         try:
@@ -163,7 +188,8 @@ def send_explorer_while_error(func):
                 restart_compiled_client_if_gone()
                 adv.send_explorer_by_client(10)
                 adv.buff_by_client(5, "buffPremium")
-                adv.buff_by_client(3, "buffFish")
+                adv.buff_by_client(3, "buffGrill")
+                adv.buff_by_client(30, "buffFish")
                 my_pygui.hotkey('ctrl', 'm')
                 wait(10*60, 'sending after error in ')
     return wrapper_send_explorer_while_error
